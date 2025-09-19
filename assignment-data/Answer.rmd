@@ -1,0 +1,116 @@
+```{r}
+setwd("/Users/pranjalpruthi/Desktop/IGIB/PhdCW/RLearning/")
+getwd() # See your current working directory
+
+library(readr)
+library(tidyverse)
+library(readr)
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+library(stringr)
+library(lubridate)
+library(broom)
+if (!requireNamespace("BiocManager", quietly = TRUE))
+  install.packages("BiocManager", repos = "https://cloud.r-project.org")
+
+```
+
+```{r}
+
+brca <- read_tsv("/Users/pranjalpruthi/Desktop/IGIB/PhdCW/RLearning/assignment1/brca_tcga_clinical_data.tsv")
+head(brca)
+
+dim(brca)
+colnames(brca)
+```
+
+```{r}
+
+table(brca$`Sample Type`)
+brca_primary <- brca %>%
+  filter(`Sample Type` == "Primary")
+
+brca_primary_age60 <- brca %>%
+  filter(`Sample Type` == "Primary", `Diagnosis Age` >= 60)
+
+dim(brca_primary)
+
+dim(brca_primary_age60)
+
+total_samples <- nrow(brca_primary_age60)
+total_samples
+
+total_samples$`Patient ID`[1:10]
+
+#or
+
+head(total_samples$`Patient ID`, 10)
+
+
+#Question 2
+
+stage_table <- brca_primary %>%
+    group_by(`Neoplasm Disease Stage American Joint Committee on Cancer Code`) %>%
+  count() %>%
+  mutate(Proportion = n / sum(n))
+
+print(stage_table)
+
+#Question 3
+
+
+print("Frequency Table for ER Status:")
+
+er_table <- brca_primary %>%
+  count(`ER Status By IHC`) %>%
+  mutate(Proportion = n / sum(n))
+er_table
+
+pr_table <- brca_primary %>%
+  count(`PR status by ihc`,`IHC-HER2`) %>%
+    mutate(Proportion = n / sum(n))
+
+pr_table
+
+#Question 4
+
+tnbc_status <- brca_primary %>%
+  filter(`ER Status By IHC` == "Negative" &
+         `PR status by ihc` == "Negative" &
+         `IHC-HER2` == "Negative")
+
+tnbc_status
+dim(tnbc_status)
+
+number_of_tnbc_cases <- nrow(tnbc_status)
+total_primary_samples <- nrow(brca_primary)
+percentage_tnbc <- (number_of_tnbc_cases / total_primary_samples) * 100
+
+percentage_tnbc
+
+#Question 5
+
+overall_median_age <- median(brca$`Diagnosis Age`, na.rm = TRUE)
+overall_median_age
+
+median_age_by_cancer_type <- brca %>%
+  group_by(`Cancer Type Detailed`) %>%
+  summarise(Median_Age = median(`Diagnosis Age`, na.rm = TRUE))
+
+median_age_by_cancer_type
+
+
+
+top_histologies <- brca %>%
+  group_by(`Cancer Type Detailed`) %>%
+  summarise(
+    Case_Count = n(),
+    Median_Age = median(`Diagnosis Age`, na.rm = TRUE)
+  ) %>%
+  arrange(desc(Case_Count)) %>%
+  slice_head(n = 5)
+
+print("Top 5 histologies by case count with median age:")
+print(top_histologies)
+```

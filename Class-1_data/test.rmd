@@ -1,0 +1,65 @@
+
+```{r}
+setwd("/Users/pranjalpruthi/Desktop/IGIB/PhdCW/RLearning/")
+getwd() # See your current working directory
+
+library(readr)
+
+# Now, read your TSV file
+brca <- read_tsv("/Users/pranjalpruthi/Downloads/brca_tcga_clinical_data.tsv")
+
+```
+
+
+```{r}
+library(readr)
+library(tidyverse)
+library(readr)
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+library(stringr)
+library(lubridate)
+library(broom)
+if (!requireNamespace("BiocManager", quietly = TRUE))
+  install.packages("BiocManager", repos = "https://cloud.r-project.org")
+```
+
+```{r}
+brca <- read_tsv("/Users/pranjalpruthi/Downloads/brca_tcga_clinical_data.tsv")
+```
+
+
+
+```{r}
+head(brca)
+brca$"Person Neoplasm Status"
+```
+
+
+
+
+```{r}
+# Make sure you have the tidyverse package loaded for filter() and summarise()
+# If you haven't already, run: install.packages("tidyverse")
+library(tidyverse)
+# library(dplyr) # If you prefer to load dplyr specifically
+
+# 1. Keep only patients where 'Person Neoplasm Status' = "WITH TUMOR"
+brca_with_tumor <- brca %>%
+  filter(`Person Neoplasm Status` == "WITH TUMOR")
+
+# 2. Compute the average 'Diagnosis Age' for these patients
+average_diagnosis_age <- brca_with_tumor %>%
+  summarise(mean_diagnosis_age = mean(`Diagnosis Age`, na.rm = TRUE))
+
+# You can then print the result
+print(average_diagnosis_age)
+
+# Or, combine both steps into a single pipeline:
+combined_result <- brca %>%
+  filter(`Person Neoplasm Status` == "WITH TUMOR") %>%
+  summarise(mean_diagnosis_age = mean(`Diagnosis Age`, na.rm = TRUE))
+
+print(combined_result)
+```

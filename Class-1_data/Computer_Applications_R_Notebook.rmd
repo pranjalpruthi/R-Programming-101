@@ -1,0 +1,240 @@
+---
+title: "Computer Applications & Informatics: R Notebook"
+author: "Sherry Bhalla (AcSIR @ CSIR-IGIB)"
+output:
+  html_notebook: default
+---
+
+> This R Notebook is designed for the **Computer Applications & Informatics** module. Run each chunk with the ▶ button. It covers: data types, data structures, control flow, functions, I/O, random sampling, common statistical tests, visualization with ggplot2, and translating pseudocode into R.
+
+## 0) Setup
+
+```{r}
+# Helper: install packages if missing
+pkgs <- c("tidyverse", "readr", "dplyr", "ggplot2", "tidyr", "stringr", "lubridate", "broom")
+to_install <- pkgs[!pkgs %in% rownames(installed.packages())]
+if (length(to_install)) install.packages(to_install, repos = "https://cloud.r-project.org")
+
+library(tidyverse)
+library(readr)
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+library(stringr)
+library(lubridate)
+library(broom)
+set.seed(42)
+```
+
+### Bioconductor (optional for genomics work)
+```{r}
+if (!requireNamespace("BiocManager", quietly = TRUE))
+  install.packages("BiocManager", repos = "https://cloud.r-project.org")
+# You may skip this on your machines if already installed
+# BiocManager::install(version = "3.19")
+# BiocManager::install(c("GenomicFeatures", "AnnotationDbi"))
+```
+
+## 1) R basics — objects, types, and vectors
+
+```{r}
+# Scalars and basic types
+x_num <- 3.14          # numeric
+x_int <- as.integer(7) # integer
+x_chr <- "IGIB"        # character
+x_lgl <- TRUE          # logical
+
+
+str(list(x_num, x_int, x_chr, x_lgl))
+
+# Vector creation and coercion
+v_num <- c(1, 2, 3, 4.5)
+v_chr <- c("a", "b", "c")
+v_lgl <- c(TRUE, FALSE, TRUE)
+
+length(v_num); typeof(v_num) ;typeof(v_chr)
+```
+
+### Vectorized operations
+```{r}
+v <- 1:6
+v
+v * 2          # multiply all elements
+v + (1:6) # element-wise addition
+
+v[v %% 2 == 0] # filter even elements
+```
+
+## 2) Data structures — lists, data frames, tibbles
+
+```{r}
+# List
+info <- list(name = "Sample A", count = 5L, valid = TRUE, tags = c("rna", "qc"))
+info$name           # access by $
+info[["tags"]][1]   # nested access
+
+# Data frame & tibble
+df <- tibble(
+  id = 1:5,
+  group = c("Ctrl", "Ctrl", "Treat", "Treat", "Treat"),
+  value = c(5.2, 4.8, 7.1, 6.9, 7.4)
+)
+df
+```
+
+### Subset, add, merge
+```{r}
+df_ctrl <- filter(df, group == "Ctrl")
+df2 <- mutate(df, z = scale(value))
+df_join <- left_join(df, tibble(id = 1:5, batch = c("B1","B1","B2","B2","B2")), by = "id")
+list(df_ctrl = df_ctrl, df2 = df2, df_join = df_join)
+```
+
+## 3) Control flow & apply family
+
+```{r}
+# if / else
+threshold <- 6
+df <- df |> mutate(flag = if_else(value >= threshold, "high", "low"))
+
+# for loop (rarely needed in tidyverse, shown for pedagogy)
+labs <- c()
+for (i in seq_len(nrow(df))) {
+  labs[i] <- paste0(df$group[i], "_", df$id[i])
+}
+labs[1:5]
+```
+
+```{r}
+# Vectorized / functional alternatives
+labels2 <- with(df, paste(group, id, sep = "_"))
+labels3 <- df |> transmute(label = str_c(group, id, sep = "_")) |> pull()
+identical(labels2, labels3)
+```
+
+## 4) Functions — write once, reuse
+
+```{r}
+zscore <- function(x) {
+  (x - mean(x, na.rm = TRUE)) / sd(x, na.rm = TRUE)
+}
+
+df <- df |> mutate(z_value = zscore(value))
+summary(df$z_value)
+```
+
+## 5) Reading & writing files
+
+```{r}
+# Create a small example dataset and write it
+patients <- tibble(
+  patient_id = sprintf("P%03d", 1:50),
+  age = sample(25:75, 50, replace = TRUE),
+  sex = sample(c("F","M"), 50, replace = TRUE),
+  group = sample(c("Control","Treatment"), 50, replace = TRUE),
+  biomarker = rnorm(50, mean = 10, sd = 2)
+)
+write_csv(patients, "patients.csv")
+```
+
+```{r}
+# Read it back
+patients_in <- read_csv("patients.csv", show_col_types = FALSE)
+patients_in |> slice_head(n = 5)
+```
+
+## 6) Random sampling & basic distributions
+
+```{r}
+# Random sampling
+sample_ids <- sample(patients_in$patient_id, size = 5)
+sample_ids
+
+# Normal distribution example
+norm_vals <- rnorm(1000, mean = 0, sd = 1)
+mean(norm_vals); sd(norm_vals)
+```
+
+## 7) Statistical tests (quick start)
+
+```{r}
+# Two-sample t-test on biomarker by group
+tt <- t.test(biomarker ~ group, data = patients_in)
+tidy(tt)
+
+# Correlation (Pearson)
+cor_test <- cor.test(patients_in$age, patients_in$biomarker, method = "pearson")
+tidy(cor_test)
+
+# Chi-squared test (sex vs group)
+tab <- table(patients_in$sex, patients_in$group)
+chisq.test(tab)
+```
+
+> Note: Choose tests based on assumptions (normality, variance). For non-normal data consider `wilcox.test`.
+
+## 8) Data visualization with ggplot2
+
+```{r}
+# Histogram
+ggplot(patients_in, aes(biomarker)) + 
+  geom_histogram(bins = 20) + 
+  labs(title = "Biomarker distribution")
+
+# Boxplot by group
+ggplot(patients_in, aes(group, biomarker)) +
+  geom_boxplot() +
+  labs(title = "Biomarker by group")
+
+# Scatter with trend
+ggplot(patients_in, aes(age, biomarker, color = group)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(title = "Age vs Biomarker")
+```
+
+## 9) From pseudocode to R
+
+**Example 1 — Even/Odd**  
+_Pseudocode_
+1. Read a file  
+2. Pick a column  
+3. For each element, if `num %% 2 == 0` → print "even" else "odd"
+
+```{r}
+# Implement
+nums <- tibble(n = 1:10)
+nums |> mutate(kind = if_else(n %% 2 == 0, "even", "odd"))
+```
+
+**Example 2 — Average of N numbers**  
+_Pseudocode_
+1. Read N  
+2. Loop N times, add to sum  
+3. Average = sum/N
+
+```{r}
+# Implement without interactive input (classroom-friendly)
+vec <- c(2, 4, 8, 16, 32)
+avg <- mean(vec)
+avg
+```
+
+## 10) File types — .R, .Rmd, R Notebook, Quarto
+
+- **.R script**: plain code; great for functions and pipelines.  
+- **.Rmd / R Notebook**: text + code chunks; great for teaching and reproducible reports (this file).  
+- **.qmd (Quarto)**: next-gen publishing; supports R/Python/Julia; for books, dashboards, websites.
+
+## 11) Exercises (to try)
+
+1. Load `patients.csv`, compute a new variable **BMI_fake** = `rnorm(n(), 25, 3)`, and test if it differs by **sex**.  
+2. Make a **violin plot** of `biomarker ~ group` with points overlaid.  
+3. Write a function `winsorize(x, p = 0.05)` that caps extremes and re-run the t-test on winsorized data.  
+4. Save a plot to file with `ggsave("plot.png", width = 6, height = 4, dpi = 300)`.
+
+## 12) Session info
+
+```{r}
+sessionInfo()
+```

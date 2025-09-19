@@ -1,0 +1,302 @@
+---
+title: "R data types and structures"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+```{r setup}
+# set the working path
+    knitr::opts_knit$set(root.dir = normalizePath("/Users/sherrybhalla/projects/computational_biology_course/datasets")) 
+
+# its easy with simple R script
+# get to know the working directory
+#setwd("/Users/sherrybhalla/projects/computational_biology_course/datasets")
+# in windows you may have to set path like this: #setwd("C:/Users/abc/Desktop/folder")
+```
+
+
+```{r}
+# installing the R package
+
+# 1. Installing R Packages from the CRAN Repository
+install.packages('readr')
+install.packages(c('readr', 'ggplot2', 'tidyr'))
+# 2. Installing R packages from GitHub
+install.packages('devtools')
+devtools::install_github('rstudio/shiny')
+#install.packages('devtools')
+#library("devtools")
+#devtools::install_github('GoekeLab/proActiv')
+library("proActiv")
+# how to read the file 
+
+# 3. install using bioconductor
+if (!require("BiocManager", quietly = TRUE))
+  install.packages("BiocManager")
+BiocManager::install(version = "3.18")
+BiocManager::install(c("GenomicFeatures", "AnnotationDbi"))
+
+####
+
+```
+
+
+```{r}
+#Reading data into R
+# install package and read file
+#install.packages("tidyverse")
+
+typesdata=read.csv("./datasets/typesdata.csv")
+#?read.csv
+#typesdata
+str(typesdata)
+class(typesdata)
+# lets read it through tidyverse
+library("tidyverse")
+typesdata=read_csv("./datasets/typesdata.csv")
+spec(typesdata)
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Cmd+Shift+K* to preview the HTML file). 
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+
+
+```{r}
+# variable types 
+#continuous (numbers), in R: numeric, double, or integer;
+#categorical, in R: character, factor, or logical (TRUE/FALSE);  #date/time, in R: POSIXct date-time3.
+typesdata_faulty <- read_csv("typesdata_faulty.csv")
+spec(typesdata_faulty)
+```
+```{r}
+## Let's Explore the Number of Categories and Their Counts in the 'group' Column"
+library(tidyverse) 
+typesdata %>%
+count(group)
+```
+```{r}
+#and now sort it also (decreasing order)
+typesdata %>%
+count(group, sort = TRUE)
+```
+
+```{r}
+# Importance of class of each variable in dataframe
+library(lubridate)
+current_datetime <- Sys.time()
+current_datetime
+
+my_datetime <- "2020-12-01 12:00"
+my_datetime
+
+current_datetime - my_datetime
+
+current_datetime %>% class()
+my_datetime %>% class()
+my_datetime_converted <- ymd_hm(my_datetime)
+my_datetime_converted %>% class()
+
+ current_datetime - my_datetime_converted
+```
+```{r}
+# R functions
+# Function to find the maximum of two numbers
+find_maximum <- function(a, b) {
+  if (a > b) {
+    return(a)
+  } else {
+    return(b)
+  }
+}
+
+# Example usage
+result <- find_maximum(8, 5)
+print(paste("The maximum of 8 and 5 is:", result))
+```
+
+
+```{r}
+# pipe 
+
+mean(typesdata$measurement)
+typesdata$measurement %>% mean()
+# ctrl +shift + m (add pipe sign)
+
+
+```
+```{r}
+#Operators for filtering data
+typesdata %>% filter(group=="Treatment")
+typesdata %>% filter(group!="Treatment")
+typesdata %>% filter(measurement > 2)
+typesdata %>% filter(measurement > 2 & group =="Treatment"|group =="Control")
+typesdata %>% filter(measurement > 3.7)
+typesdata %>% filter(measurement >= 3.7)
+```
+```{r}
+# unique elements in group column
+typesdata$group %>% unique()
+```
+```{r}
+## create new columns mutate function
+typesdata %>% mutate(measurement/2)
+typesdata %>% mutate(measurement_half = measurement/2)
+typesdata_modified=typesdata %>% mutate(measurement_half = measurement/2)
+```
+
+
+```{r}
+## Lets calculate relative measurement
+typesdata %>%
+mutate(mean_measurement = mean(measurement))
+
+typesdata %>%
+mutate(mean_measurement = mean(measurement)) %>% mutate(measurement_relative = measurement/mean_measurement) %>% select(matches("measurement"))
+```
+
+```{r}
+#Conditional calculations - if_else()
+typesdata %>%
+mutate(above_threshold = if_else(measurement > 3,
+                                   "Above three",
+                                   "Below three"))
+```
+
+```{r}
+#Joining multiple datasets
+library(tidyverse)
+patientdata <- read_csv("patient_data.csv")
+patientdata
+
+labsdata <- read_csv("labs_data.csv")
+labsdata
+
+```
+```{r}
+
+# full join (have everything)
+full_join(patientdata, labsdata)
+```
+```{r}
+inner_join(patientdata, labsdata)
+```
+```{r}
+left_join(patientdata, labsdata)
+```
+```{r}
+ #left_join(data1, data2, by = c("id" = "patient_id"))
+patientdata_new <- read_csv("patient_data_updated.csv")
+patientdata_new
+```
+```{r}
+bind_rows(patientdata, patientdata_new)
+```
+
+```{r}
+## add values to data frame
+labsdata_updated <- labsdata %>% add_row(id = 5, measurement = 2.49)
+labsdata_updated
+```
+
+```{r}
+# understanding factors and characters
+# Create a data frame with a numeric and a factor column
+data <- data.frame(
+  NumericColumn = c(1, 2, 3, 4, 5),
+  FactorColumn = as.factor(c("Low", "Medium", "High", "Low", "Medium"))
+)
+
+# Mixing numeric and factor columns
+mixed_data <- cbind(data$NumericColumn, data$FactorColumn)
+class(mixed_data[,2])
+mixed_data <- as.data.frame(cbind(data$NumericColumn, data$FactorColumn))
+data <- data.frame(
+  NumericColumn = c(1, 2, 3, 4, 5),
+  FactorColumn = as.character(c("Low", "Medium", "High", "Low", "Medium"))
+)
+mixed_data <- cbind(data$NumericColumn, data$FactorColumn)
+class(mixed_data)
+mixed_data=as.data.frame(mixed_data)
+mixed_data$V2= as.factor(mixed_data$V2)
+```
+```{r}
+# filter the data
+library(tidyverse)
+gbd_full <- read_csv("global_burden_disease_cause-year-gender-income.csv")
+# Creating a single-year tibble for printing and simple examples:
+gbd2017 <- gbd_full %>% filter(year == 2017)
+gbd2017
+```
+```{r}
+# take sum
+gbd2017$deaths_millions %>% sum()
+```
+```{r}
+# summarize
+gbd2017 %>%
+group_by(cause) %>% summarise(sum(deaths_millions))
+```
+```{r}
+# group by multiple columns
+gbd2017 %>%
+group_by(cause, Gender) %>% summarise(sum(deaths_millions))
+```
+```{r}
+# wide and long formats
+gbd_wide <- read_csv("global_burden_disease_wide-format.csv") 
+gbd_long <- read_csv("global_burden_disease_cause-year-gender-income.csv")
+```
+
+```{r}
+# long to wide
+gbd_long %>%
+pivot_wider(names_from = year, values_from = deaths_millions)
+```
+```{r}
+# wide data to long 
+?pivot_longer
+gbd_wide %>% pivot_longer(cols=matches("Female|Male"),
+                          names_to = "gender_year",
+                          values_to = "deaths_millions") %>% 
+
+slice(1:6)
+```
+```{r}
+# wide to long + seperate
+gbd_wide %>%
+# same pivot_longer as before
+  pivot_longer(matches("Female|Male"),
+               names_to = "gender_year",
+values_to = "deaths_millions") %>%
+separate(gender_year, into = c("gender", "year"), sep = "_", convert = TRUE)
+```
+```{r}
+## arrange function
+gbd_long %>% arrange(deaths_millions) %>%
+# first 3 rows just for printing: slice(1:3)
+  slice(1:5)
+# descending
+gbd_long %>% arrange(-deaths_millions) %>% slice(1:3)
+```
+```{r}
+gbd_long %>%
+arrange(desc(Gender)) %>%
+# printing rows 1, 2, 11, and 12 slice(1,2, 11, 12)
+  slice(1,2, 11, 12)
+```
+```{r}
+#
+gbd_factored <- gbd_long %>% mutate(cause = factor(cause))
+gbd_factored$cause %>% levels()
+
+gbd_factored <- gbd_factored %>% mutate(cause = cause %>%
+fct_relevel("Injuries")) 
+gbd_factored$cause %>% levels()
+```
+
