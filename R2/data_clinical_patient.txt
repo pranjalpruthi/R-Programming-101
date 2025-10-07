@@ -1,0 +1,1462 @@
+PATIENT_ID	SEX	LIFE_STAGE	AGE	RACE	GEOGRAPHIC_DISTRIBUTION	ETHNICITY	DISEASE_ONTOLOGY
+DMS53_LUNG	Male		54	Caucasian		Caucasian	lung_cancer
+SW1116_LARGE_INTESTINE	Male		73	Caucasian		Caucasian	
+NCIH1694_LUNG	Male		61	Caucasian		Caucasian	
+P3HR1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		7	African_American		African_american	Burkitts lymphoma
+HUT78_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		53	Caucasian		Caucasian	sezary_syndrome
+UMUC3_URINARY_TRACT	Male		NA			Caucasian	bladder_cancer
+HOS_BONE	Female		13	Caucasian		Caucasian	
+HUNS1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		NA			Caucasian	myeloma
+AML193_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		13			African_american	
+RVH421_SKIN	Male		28	Caucasian	europe	Caucasian	
+NCIH1184_LUNG	Male		42	Caucasian		Caucasian	
+HCC2157_BREAST	Female		48	African_American		African_american	ductal_carcinoma
+TC71_BONE	Male		22			Caucasian	Ewings_sarcoma
+NCIH2227_LUNG	Male		54	Caucasian		Caucasian	
+COLO205_LARGE_INTESTINE	Male		70	Caucasian		Caucasian	colon_cancer
+SNU449_LIVER	Male		52	Asian	korea	Asian	hepatocellular_cancer
+NCIH28_PLEURA	Male		48	Caucasian		African_american	
+OV56_OVARY	Female		46			Caucasian	
+JHOS4_OVARY	Female		44	Asian		Asian	
+KYSE450_OESOPHAGUS	Male		59	Asian	japan	Asian	well differentiated invasive eosphageal squamous cell carcinoma
+RMUGS_OVARY	Female		62			Asian	
+KLE_ENDOMETRIUM	Female		64	Caucasian		Caucasian	
+HS895T_FIBROBLAST	Female		48	Caucasian		Caucasian	
+LN229_CENTRAL_NERVOUS_SYSTEM	Female		60	Caucasian		Caucasian	
+P31FUJ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		NA	Asian		Asian	
+RKN_SOFT_TISSUE	Female		45	Asian	japan	Asian	
+PATU8988S_PANCREAS	Female		64			Caucasian	
+NH6_AUTONOMIC_GANGLIA	Female		0.75			Asian	neuroblastoma
+SF126_CENTRAL_NERVOUS_SYSTEM			NA			Caucasian	
+RERFLCAD2_LUNG	Male		NA	Asian		Asian	
+OUMS23_LARGE_INTESTINE			NA			Asian	
+SNGM_ENDOMETRIUM	Female		52	Asian	japan	Asian	intermediately differentiated adenocarcinoma
+OUMS27_BONE	Male		NA			Asian	
+PL45_PANCREAS	Male		NA	Caucasian		Caucasian	
+NCIH2347_LUNG	Female		54	Caucasian		Caucasian	lung_cancer
+SW1990_PANCREAS	Male		56	Caucasian		Caucasian	
+HS940T_FIBROBLAST	Male		57	Caucasian		Caucasian	
+HS611T_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		48			Caucasian	
+TOLEDO_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female	adult	NA	Caucasian		Caucasian	
+RERFGC1B_STOMACH	Male		41	Asian	japan	Asian	
+HT1080_SOFT_TISSUE	Male		35	Caucasian		Caucasian	fibrosarcoma_cancer
+NCIH2087_LUNG	Male		69	Caucasian		Caucasian	lung_cancer
+COV318_OVARY	Female		NA			Caucasian	
+NCIH2085_LUNG	Male		45			Caucasian	
+NCIH510_LUNG	Male		56	Caucasian		Caucasian	
+CAKI1_KIDNEY	Male		49	Caucasian		Caucasian	clear_cell_carcinoma
+NCIH716_LARGE_INTESTINE	Male		33	Caucasian		Caucasian	
+NCIH2066_LUNG	Female		70	Caucasian		Caucasian	
+NCIH1341_LUNG	Female		NA			Caucasian	
+NCIH2029_LUNG	Female		69	Caucasian		Caucasian	
+C3A_LIVER	Male		15	Caucasian		Caucasian	
+SW480_LARGE_INTESTINE	Male		50	Caucasian		Caucasian	colon_cancer
+HS746T_STOMACH	Male		74	Caucasian		Caucasian	
+LU65_LUNG	Male		64	Asian		Asian	lung_cancer
+HS739T_FIBROBLAST	Female		52	Asian		Asian	
+SNUC2A_LARGE_INTESTINE	Female		43	Asian		Asian	
+HEC151_ENDOMETRIUM	Female		NA	Asian		Asian	
+MSTO211H_PLEURA	Male		62	Caucasian		Caucasian	lung_cancer
+RAJI_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		12	African		African_american	lymphoma
+SKMEL1_SKIN	Male		29	Caucasian		Caucasian	
+SUPT1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		8	Caucasian		Caucasian	
+JHH7_LIVER	Male		53	Asian	japan	Asian	
+HUT102_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		26	African_American		African_american	mycosis_fungoides
+5637_URINARY_TRACT	Male		68	Caucasian		Asian	
+HCC38_BREAST	Female		50	Caucasian		Caucasian	breast_cancer
+DU4475_BREAST	Female		62	Caucasian		Caucasian	breast_cancer
+NCIH1573_LUNG	Female		35	Caucasian		Caucasian	
+NCIH508_LARGE_INTESTINE	Male		55	Caucasian		Caucasian	
+NCIH1651_LUNG	Male		71			Caucasian	
+SKUT1_SOFT_TISSUE	Female		75	Caucasian		Caucasian	
+MDAMB175VII_BREAST	Female		56	African_American		African_american	invasive_ductal_carcinoma
+SUPB15_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		9	Caucasian		Caucasian	
+BECKER_CENTRAL_NERVOUS_SYSTEM	Male		57			Caucasian	
+NCIH226_LUNG	Male		NA			Caucasian	lung_cancer
+NCIH1666_LUNG	Female		50	Caucasian		Caucasian	lung_cancer
+SW1783_CENTRAL_NERVOUS_SYSTEM	Male		68	Caucasian		Caucasian	
+ISTMES1_PLEURA	Female		70	Caucasian		Caucasian	
+NCIH1734_LUNG	Female		56			Caucasian	
+NCIH2342_LUNG	Male		55	Caucasian		Caucasian	
+EBC1_LUNG	Male		69			Asian	lung_cancer
+YMB1_BREAST	Female		63	Caucasian		Caucasian	
+OC316_OVARY	Female		60			Caucasian	
+HS936T_SKIN	Male		NA			Caucasian	
+T173_FIBROBLAST			NA			Caucasian	
+NCIH322_LUNG	Male		52	Caucasian		Caucasian	lung_cancer
+HS618T_FIBROBLAST	Female		60	Caucasian		Caucasian	
+HS870T_FIBROBLAST			NA			Caucasian	
+HS706T_BONE	Female		16	Caucasian		Caucasian	
+PANC1_PANCREAS	Male		56	Caucasian		Caucasian	
+NCIH2291_LUNG	Male		NA			Caucasian	
+T47D_BREAST	Female		54			Caucasian	breast_cancer
+HS742T_FIBROBLAST	Female		71	Caucasian		Caucasian	
+BICR56_UPPER_AERODIGESTIVE_TRACT	Female		NA	Caucasian		Caucasian	
+BICR16_UPPER_AERODIGESTIVE_TRACT	Male		NA	Caucasian		Caucasian	
+TE10_OESOPHAGUS			NA			Asian	
+SKMEL28_SKIN	Male		51			Caucasian	skin_cancer
+BICR6_UPPER_AERODIGESTIVE_TRACT	Male		NA	Caucasian		Caucasian	
+BHY_UPPER_AERODIGESTIVE_TRACT	Male		52	Asian		Asian	
+AZ521_SMALL_INTESTINE			NA	Asian	japan	African_american	
+SH4_SKIN	Female		60	Caucasian		Caucasian	
+KPL1_BREAST	Female		50	Asian	japan	Caucasian	breast_cancer
+CGTHW1_THYROID	Female		70	Asian	chinese	Caucasian	
+TUHR4TKB_KIDNEY			NA			Asian	
+LS123_LARGE_INTESTINE	Female		65	Caucasian		Caucasian	
+HEL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		30			Caucasian	
+HPAC_PANCREAS	Female		64	Caucasian		Caucasian	Pancreatic Cancer
+RCC10RGB_KIDNEY	Male		NA	Asian		Asian	
+JHOM1_OVARY	Female		NA			Asian	
+SU8686_PANCREAS	Female		57	Caucasian		Caucasian	
+HCC33_LUNG	Male		52	Caucasian		Caucasian	lung_cancer
+TE6_OESOPHAGUS			NA			Asian	
+JHOC5_OVARY	Female		NA			Asian	
+ACCMESO1_PLEURA			NA			Asian	
+BL41_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		8	Caucasian		Caucasian	
+SNU1214_UPPER_AERODIGESTIVE_TRACT	Male		55	Asian		Asian	
+CORL105_LUNG	Male		NA	Caucasian		Caucasian	
+LMSU_STOMACH			NA			Asian	
+SNU1197_LARGE_INTESTINE	Male		70	Asian		Asian	
+COLO668_LUNG	Female		47			Caucasian	
+OSRC2_KIDNEY	Male		NA			Asian	
+HUH6_LIVER	Male	pediatric	NA	Asian	japan	Asian	
+PANC0203_PANCREAS	Female		70	Caucasian		Caucasian	
+CJM_SKIN			NA			Asian	
+BICR22_UPPER_AERODIGESTIVE_TRACT	Male		NA	Caucasian		Caucasian	
+SHSY5Y_AUTONOMIC_GANGLIA	Female		4			NA	
+TM31_CENTRAL_NERVOUS_SYSTEM			NA			Asian	
+SNU1272_KIDNEY	Female		63	Asian		Asian	
+KPNRTBM1_AUTONOMIC_GANGLIA			NA			Asian	neuroblastoma
+BICR18_UPPER_AERODIGESTIVE_TRACT	Male		NA			Caucasian	
+TE4_OESOPHAGUS			NA			Asian	
+PCM6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE			NA			Asian	
+ECC10_STOMACH			NA			Asian	
+TUHR14TKB_KIDNEY			NA			Asian	
+YD15_SALIVARY_GLAND	Male		39	Asian		Asian	
+UBLC1_URINARY_TRACT	Female		NA			African_american	
+ECGI10_OESOPHAGUS	Male		65			Asian	
+CW2_LARGE_INTESTINE	Female		55			Asian	
+SNU761_LIVER	Male		49	Asian		Asian	
+SNU61_LARGE_INTESTINE	Male		48	Asian		Asian	
+NCIH1915_LUNG	Female		61	Caucasian		Caucasian	
+SNU324_PANCREAS	Male		50	Asian		Asian	
+YD10B_UPPER_AERODIGESTIVE_TRACT	Male		67	Asian		Asian	
+HCC2279_LUNG	Female		52	Asian		Asian	lung_cancer
+HLC1_LUNG			NA			Asian	
+TUHR10TKB_KIDNEY			NA			Asian	
+HEC1B_ENDOMETRIUM	Female		71			Asian	
+VMRCLCP_LUNG			NA			Caucasian	
+TGBC11TKB_STOMACH	Female		NA			Asian	
+OVK18_OVARY	Female		NA			Asian	
+SNU1077_ENDOMETRIUM	Female		60	Asian		Asian	
+HCC1588_LUNG	Female		63			Caucasian	
+SNU213_PANCREAS	Male		65	Asian		Asian	
+HT115_LARGE_INTESTINE			NA			Caucasian	
+TE14_OESOPHAGUS			NA			Asian	
+TE8_OESOPHAGUS			NA			Asian	
+SNU520_STOMACH	Female		60	Asian	korea	Asian	
+JHUEM3_ENDOMETRIUM			NA			Asian	
+LI7_LIVER			NA			Asian	
+NCIH838_LUNG	Male		59	Caucasian		Caucasian	
+SNU119_OVARY	Female		50	Asian		Asian	
+SNU1033_LARGE_INTESTINE	Female		45	Asian		Asian	
+SNUC5_LARGE_INTESTINE	Female		77	Asian		Asian	
+GSS_STOMACH			NA			Asian	
+TALL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		28			NA	
+HCC1171_LUNG	Male		58	Caucasian		Caucasian	lung_cancer
+SNUC4_LARGE_INTESTINE	Male		35	Asian		Asian	
+U138MG_CENTRAL_NERVOUS_SYSTEM	Null		50	Caucasian		NA	brain_cancer
+SNU620_STOMACH	Female		59	Asian	korea	Asian	
+ECC12_STOMACH	Male		63			Asian	
+GSU_STOMACH			NA			Asian	
+KMS18_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE			NA			Asian	multiple_myeloma
+JHOM2B_OVARY	Female		NA			Asian	
+MDAMB231_BREAST	Female		51	Caucasian		Caucasian	breast_cancer
+OV90_OVARY	Female		64	Caucasian	canada	Caucasian	malignant_papillary_serous_adenocarcinoma
+RS411_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		32	Caucasian		Caucasian	
+OVTOKO_OVARY	Female		78	Asian	japan	Asian	Ovarian Cancer
+OVCAR4_OVARY	Female		42			Caucasian	ovarian_cancer
+HLF_LIVER	Male		69	Asian	japan	Asian	
+HCT15_LARGE_INTESTINE	Male		NA			Caucasian	colon_cancer
+SW1463_LARGE_INTESTINE	Female		66	Caucasian		Caucasian	
+SF295_CENTRAL_NERVOUS_SYSTEM	Female		67			Caucasian	brain_cancer
+WM115_SKIN	Female		59			Caucasian	
+JHH4_LIVER	Male		51	Asian	japan	Asian	
+OE33_OESOPHAGUS	Female		73	Caucasian		Caucasian	
+CCK81_LARGE_INTESTINE			NA			Asian	Colon Cancer
+JHH1_LIVER	Male		50	Asian	japan	Asian	
+SJSA1_BONE	Male		19	African_American		African_american	
+NCIH2228_LUNG	Female		NA			Caucasian	
+RERFLCAI_LUNG			NA			Asian	lung_cancer
+SKMES1_LUNG	Male		65	Caucasian		Caucasian	lung_cancer
+NCIH520_LUNG	Male		NA			Caucasian	
+JHH5_LIVER	Male		50	Asian	japan	Asian	
+FU97_STOMACH	Female		66	Asian	japan	Asian	
+COLO800_SKIN	Male		14			Caucasian	
+NCIH1963_LUNG	Male		56	African_American		African_american	
+RL952_ENDOMETRIUM	Female		65	Caucasian		Caucasian	
+J82_URINARY_TRACT	Male		58	Caucasian	sweden	Caucasian	
+HCC15_LUNG	Male		47	African_American		African_american	lung_cancer
+M059K_CENTRAL_NERVOUS_SYSTEM	Male		33			Caucasian	
+CALU6_LUNG	Female		61	Caucasian		Caucasian	lung_cancer
+SKLU1_LUNG	Female		60	Caucasian		Caucasian	
+SW900_LUNG	Male		53	Caucasian		Caucasian	
+UACC62_SKIN			NA			Caucasian	melanoma
+MFE280_ENDOMETRIUM	Female		77			Caucasian	recurrent_endometrial_carcinoma
+MFE319_ENDOMETRIUM	Female		81			Caucasian	Endometrial Cancer
+MFE296_ENDOMETRIUM	Female		68	Caucasian		Caucasian	
+GOS3_CENTRAL_NERVOUS_SYSTEM	Male		55			Caucasian	Brain Cancer
+GI1_CENTRAL_NERVOUS_SYSTEM	Male		61	Asian		Asian	
+PC14_LUNG			NA	Asian		Asian	lung_cancer
+KYSE410_OESOPHAGUS	Male		51	Asian	japan	Asian	
+A204_SOFT_TISSUE	Female	pediatric	1			Caucasian	
+PATU8902_PANCREAS	Female		44			Caucasian	
+NCIH810_LUNG	Male		51	African_American		African_american	
+RERFLCMS_LUNG			NA	Asian		Asian	lung_cancer
+L1236_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		34			Caucasian	lymphoma
+DANG_PANCREAS			NA			Caucasian	Pancreatic Cancer
+NCIH460_LUNG	Male		NA			Caucasian	large_cell_lung_cancer
+KYSE140_OESOPHAGUS	Male		54	Asian	japan	Asian	
+KYSE180_OESOPHAGUS	Male		53	Asian	japan	Asian	
+HUPT3_PANCREAS	Male		66	Asian	japan	Asian	
+EFE184_ENDOMETRIUM	Female		69	Caucasian		Caucasian	
+GCIY_STOMACH	Female		NA	Asian		Asian	
+SH10TC_STOMACH			NA			Asian	
+CAOV4_OVARY	Female		45	Caucasian		Caucasian	
+HCC2218_BREAST	Female		38	Caucasian		Caucasian	
+KMS21BM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		62	Asian		Asian	
+KMS26_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		50	Asian		Asian	multiple_myeloma
+KMS27_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		52	Asian		Asian	multiple_myeloma
+KO52_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		46			Asian	
+KMS28BM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		77	Asian		Asian	
+KNS60_CENTRAL_NERVOUS_SYSTEM	Male		55			Asian	
+KNS81_CENTRAL_NERVOUS_SYSTEM	Male		65			Asian	
+KPNSI9S_AUTONOMIC_GANGLIA			NA			Asian	
+LU99_LUNG	Male		63	Asian		Asian	
+KMS34_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		60	Asian		Asian	multiple_myeloma
+MKN1_STOMACH	Male		72	Asian	japan	Asian	
+MKN74_STOMACH	Male		37	Asian	japan	Asian	gastric_cancer
+KP3_PANCREAS	Male		75	Asian	japan	Asian	
+NCO2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		35			Asian	
+KHM1B_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		53			Asian	
+HSC2_UPPER_AERODIGESTIVE_TRACT	Male		69			Asian	
+KG1C_CENTRAL_NERVOUS_SYSTEM	Male		13			Asian	
+HUH7_LIVER	Male		57	Asian	japan	Asian	
+KMBC2_URINARY_TRACT			NA			Asian	
+KMRC20_KIDNEY			NA			Asian	
+HUCCT1_BILIARY_TRACT	Male		NA	Asian	japan	Asian	
+KIJK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		15			Asian	
+A4FUK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		52	Asian		Asian	
+KALS1_CENTRAL_NERVOUS_SYSTEM	Female		NA			Asian	
+HEC108_ENDOMETRIUM	Female		NA	Asian		Asian	
+HEL9217_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		30	Caucasian		Caucasian	erythroleukemia
+HUH28_BILIARY_TRACT			NA	Asian	japan	Asian	
+CMK115_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE			NA			Asian	
+HEC265_ENDOMETRIUM	Female		NA	Asian		Asian	
+CAL12T_LUNG	Male		NA			Caucasian	
+THP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male	pediatric	1			Asian	acute_monocytic_leukemia
+A3KAW_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		NA			Asian	
+SKNSH_AUTONOMIC_GANGLIA	Female		4			Caucasian	neuroblastoma
+HCC1954_BREAST	Female		61	East_Indian		Caucasian	breast_cancer
+CAMA1_BREAST	Female		51	Caucasian		Caucasian	breast_cancer
+HEC6_ENDOMETRIUM	Female		NA	Asian		Asian	
+AM38_CENTRAL_NERVOUS_SYSTEM	Male		36			Asian	
+HEC50B_ENDOMETRIUM	Female		NA	Asian		Asian	
+HSC3_UPPER_AERODIGESTIVE_TRACT	Male		64			Asian	
+HSC4_UPPER_AERODIGESTIVE_TRACT	Male		64			Asian	
+KMS11_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		67	Asian		Asian	multiple_myeloma
+KP4_PANCREAS	Male		50	Asian	japan	Asian	
+KE39_STOMACH	Male		77	Asian	japan	Asian	
+COV504_OVARY	Female		NA			Caucasian	
+KE97_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		52	Asian	japan	Asian	
+VMRCRCW_KIDNEY	Male		NA			Caucasian	
+HGC27_STOMACH			NA	Asian		Asian	
+LUDLU1_LUNG	Male		72	Caucasian		Caucasian	
+HUG1N_STOMACH	Male		55	Asian	japan	Asian	
+U266B1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		53			Caucasian	myeloma
+NUGC4_STOMACH	Female		35	Asian	japan	Asian	
+BGC823_STOMACH	Male		62	Asian	chinese	African_american	
+HMC18_BREAST	Female		35	Asian		Asian	
+CAS1_CENTRAL_NERVOUS_SYSTEM	Male		63			Caucasian	
+KMM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		62	Asian		Asian	multiple_myeloma
+CORL23_LUNG	Male		62	Caucasian		Caucasian	
+MORCPR_LUNG			NA			Caucasian	Lung Cancer
+HARA_LUNG	Male		57	Asian		Asian	Lung Cancer
+SKOV3_OVARY	Female		64	Caucasian		Caucasian	ovarian_cancer
+HPAFII_PANCREAS	Male		44	Caucasian		Caucasian	
+MC116_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		NA			Caucasian	undifferentiated B lymphoma
+NCIH1568_LUNG	Female		48	Caucasian		Caucasian	
+CA46_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		NA			Asian	
+A498_KIDNEY	Male		52			Caucasian	renal_cell_carcinoma
+BCP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		92			Caucasian	
+A673_BONE	Female		15			Caucasian	Ewings_sarcoma
+AU565_BREAST	Female		43	Caucasian		Caucasian	breast_cancer
+COLO201_LARGE_INTESTINE	Male		70	Caucasian		Caucasian	colon_cancer
+CAPAN1_PANCREAS	Male		40	Caucasian		Caucasian	
+NCIH1563_LUNG	Male		NA			Caucasian	
+NCIH358_LUNG	Male		NA			Caucasian	bronchioalveolar_carcinoma; non-small_cell lung_cancer
+CFPAC1_PANCREAS	Male		26	Caucasian		Caucasian	
+NIHOVCAR3_OVARY	Female		60	Caucasian		Caucasian	ovarian_cancer
+NCIH1650_LUNG	Male		27	Caucasian		Caucasian	lung_cancer
+NCIH1793_LUNG	Female		52			Caucasian	
+NCIH1437_LUNG	Male		6	Caucasian		Caucasian	lung_cancer
+KNS62_LUNG	Male		49			Asian	
+HS578T_BREAST	Female		74	Caucasian		Caucasian	breast_cancer
+BT20_BREAST	Female		74	Caucasian		Caucasian	breast_cancer
+SNU182_LIVER	Male		24	Asian	korea	Asian	hepatocellular_cancer
+SKNMC_BONE	Female		14	Caucasian		Caucasian	neuroepithelioma
+HH_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		61	Caucasian		Caucasian	cutaneous T cell lymphoma
+FADU_UPPER_AERODIGESTIVE_TRACT	Male		56	Caucasian		Caucasian	
+SJRH30_SOFT_TISSUE	Male		17	Caucasian		Caucasian	
+MDAMB361_BREAST	Female		40	Caucasian		Caucasian	breast_cancer
+MDAMB436_BREAST	Female		43	Caucasian		Caucasian	breast_cancer
+PANC0213_PANCREAS	Female		64	Caucasian		Caucasian	
+DB_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		45	Caucasian		Caucasian	germinal center B-cell-like (GCB) DLBCL
+RDES_BONE	Male		19	Caucasian		Caucasian	Ewing family tumor
+CAL27_UPPER_AERODIGESTIVE_TRACT	Male		56	Caucasian		Caucasian	
+MESSA_SOFT_TISSUE	Female		56	Caucasian		Caucasian	
+SW1271_LUNG	Male		69	Caucasian		Caucasian	
+NCIH1792_LUNG	Male		50	Caucasian		Caucasian	
+GCT_SOFT_TISSUE	Male		29			Caucasian	
+SKBR3_BREAST	Female		43	Caucasian		Caucasian	breast_cancer
+SNU16_STOMACH	Female		33	Asian		Asian	
+NCIH82_LUNG	Male		41	Caucasian		Caucasian	
+NCIN87_STOMACH	Male		NA			African_american	
+U2OS_BONE	Female		15	Caucasian		Caucasian	bone_cancer
+H4_CENTRAL_NERVOUS_SYSTEM	Male		37	Caucasian		Caucasian	
+GDM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		66	Caucasian		Caucasian	
+HCC1143_BREAST	Female		52	Caucasian		Caucasian	breast_cancer
+T24_URINARY_TRACT	Female		81	Caucasian		Caucasian	transitional_cell_carcinoma
+G401_SOFT_TISSUE	Male		0.25	Caucasian		Caucasian	rhabdoid_tumour
+HCC1937_BREAST	Female		24	Caucasian		Caucasian	ductal_carcinoma
+HCC1569_BREAST	Female		70	African_American		African_american	metaplastic_breast_carcinoma
+OCUM1_STOMACH	Female		38	Asian	japan	Asian	
+SAOS2_BONE	Female		11	Caucasian		Caucasian	osteosarcoma
+D283MED_CENTRAL_NERVOUS_SYSTEM	Male		6	Caucasian		Caucasian	
+SCC9_UPPER_AERODIGESTIVE_TRACT	Male		25			Caucasian	head_neck_cancer
+HCC1395_BREAST	Female		43	Caucasian		Caucasian	
+NMCG1_CENTRAL_NERVOUS_SYSTEM			NA			Asian	
+TEN_ENDOMETRIUM	Female		74	Asian		Asian	Endometrial Cancer
+HS604T_FIBROBLAST	Male		21	Caucasian		Caucasian	
+TE9_OESOPHAGUS	Male		NA			Asian	
+KNS42_CENTRAL_NERVOUS_SYSTEM	Male		16			Asian	
+KYSE520_OESOPHAGUS	Female		58	Asian	japan	Asian	
+KYSE270_OESOPHAGUS	Male		79	Asian	japan	Asian	
+JHUEM1_ENDOMETRIUM	Female		56	Asian	japan	Asian	Endometrial Cancer
+YH13_CENTRAL_NERVOUS_SYSTEM	Male		40			Asian	
+IALM_LUNG	Male		68	Asian	japan	Asian	
+NCIH2052_PLEURA	Male		65	Caucasian		Caucasian	
+EB2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		7	African_American		African_american	
+SKNFI_AUTONOMIC_GANGLIA	Male		11	Caucasian		Caucasian	neuroblastoma
+SKNAS_AUTONOMIC_GANGLIA	Female		6	Caucasian		Caucasian	neuroblastoma
+GA10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		41	Caucasian		Caucasian	
+SNU398_LIVER	Male		42	Asian	korea	Asian	
+SNU423_LIVER	Male		40	Asian	korea	Asian	pleomorphic hepatocellular carcinoma
+SCC4_UPPER_AERODIGESTIVE_TRACT	Male		55			Caucasian	
+EB1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		9	African_American		African_american	
+HCC1187_BREAST	Female		41	Caucasian		Caucasian	ductal_carcinoma
+SNU387_LIVER	Female		41	Asian	korea	Asian	
+DAUDI_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		16	African		African_american	lymphoma
+HT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		70	Caucasian		Caucasian	
+MJ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		50	Caucasian		Caucasian	
+JM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE			NA			Caucasian	
+C2BBE1_LARGE_INTESTINE	Male		72	Caucasian		Caucasian	
+SKES1_BONE	Male		18	Caucasian		Caucasian	Ewing family tumor
+EPLC272H_LUNG	Male		57	Caucasian		Caucasian	
+BXPC3_PANCREAS	Female		61			Caucasian	
+NCIH1355_LUNG	Male		53	Caucasian		Caucasian	
+SNU5_STOMACH	Female		33	Asian		Asian	
+SNU475_LIVER	Male		43	Asian	korea	Asian	hepatocellular_cancer
+HEC251_ENDOMETRIUM	Female		NA	Asian	japan	Asian	Endometrial Cancer
+HCC95_LUNG	Male		65	Caucasian		Caucasian	lung_cancer
+253J_URINARY_TRACT			NA			Caucasian	
+HCC1438_LUNG	Male		43			African_american	
+253JBV_URINARY_TRACT			NA			Caucasian	
+RPMI7951_SKIN	Female		18	Caucasian		Caucasian	melanoma
+SNU1066_UPPER_AERODIGESTIVE_TRACT	Male		62	Asian		Asian	
+SNU1041_UPPER_AERODIGESTIVE_TRACT			NA			Asian	
+HCC2108_LUNG	Male		59			Caucasian	
+COLO783_SKIN	Female		48			Caucasian	
+HCC1359_LUNG	Female		55	African_American		African_american	lung_cancer
+BICR31_UPPER_AERODIGESTIVE_TRACT	Male		NA	Caucasian		Caucasian	
+COV362_OVARY	Female		NA			Caucasian	
+COLO792_SKIN	Male		62			Caucasian	
+COV434_OVARY	Female		NA			Caucasian	
+WM983B_SKIN			NA			Caucasian	
+HS751T_FIBROBLAST			NA			Caucasian	
+LS513_LARGE_INTESTINE	Male		63	Caucasian		Caucasian	
+NCIH2110_LUNG			NA			African_american	
+CHAGOK1_LUNG	Male		45			Caucasian	
+DMS454_LUNG	Male		NA			Caucasian	
+CORL47_LUNG	Male		67	Caucasian		Caucasian	
+FTC238_THYROID	Male		42			Caucasian	
+DMS273_LUNG	Female		50			Caucasian	
+FTC133_THYROID	Male		42			Caucasian	
+CORL311_LUNG	Male		63			Caucasian	
+NCIH2286_LUNG	Female		57	Caucasian		Caucasian	
+NCIH1339_LUNG	Female		49	Caucasian		African_american	
+WM793_SKIN			NA			Caucasian	
+A704_KIDNEY	Male		78			African_american	kidney_cancer
+MDAMB435S_SKIN	Female		31	Caucasian		Caucasian	melanoma
+WM1799_SKIN			NA			Caucasian	
+MEWO_SKIN	Male		78	Caucasian		Caucasian	
+WM88_SKIN			NA			Caucasian	
+NCIH2081_LUNG	Female		59	Caucasian		Caucasian	
+HS255T_FIBROBLAST	Female		46	Caucasian		Caucasian	
+NCIH1092_LUNG	Male		67	Caucasian		Caucasian	
+SW837_LARGE_INTESTINE	Male		53	Caucasian		Caucasian	
+JHH6_LIVER	Female		57	Asian	japan	Asian	
+IGR1_SKIN	Male		42			Caucasian	
+NCIH1105_LUNG	Male		73	Caucasian		Caucasian	
+NCIH1436_LUNG	Male		39	Caucasian		Caucasian	
+NCIH1876_LUNG	Male		59	Caucasian		Caucasian	
+CORL24_LUNG	Male		71			Caucasian	
+COV644_OVARY	Female		NA			Caucasian	
+GP2D_LARGE_INTESTINE	Female		71			Caucasian	
+PECAPJ15_UPPER_AERODIGESTIVE_TRACT	Male		45			Caucasian	
+CORL88_LUNG	Male		55	Caucasian		Caucasian	
+CORL95_LUNG	Male		64			Caucasian	
+PECAPJ49_UPPER_AERODIGESTIVE_TRACT	Male		57	Caucasian		Caucasian	
+PECAPJ34CLONEC12_UPPER_AERODIGESTIVE_TRACT	Male		60			Caucasian	
+CORL51_LUNG	Male		71	Caucasian		Caucasian	
+RT11284_URINARY_TRACT	Female		NA			Caucasian	
+PECAPJ41CLONED2_UPPER_AERODIGESTIVE_TRACT	Female		67			Caucasian	
+OV7_OVARY	Female		78			Caucasian	
+HT55_LARGE_INTESTINE			NA			Caucasian	
+OAW42_OVARY	Female		NA			Caucasian	ovarian_cancer
+MDST8_LARGE_INTESTINE			NA			Caucasian	
+OAW28_OVARY	Female		NA			Caucasian	
+SUIT2_PANCREAS	Male		73	Asian	japan	Asian	moderately differentiated tubular adenocarcinoma
+LC1SQSF_LUNG	Male		69	Asian	japan	Asian	
+KASUMI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		7	Asian	japan	Asian	
+SUPM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		5			Caucasian	
+SKHEP1_LIVER	Male		52	Caucasian		Caucasian	
+OVCAR8_OVARY	Female		64			Caucasian	ovarian_cancer
+NCIH2172_LUNG	Female		NA			African_american	
+ISHIKAWAHERAKLIO02ER_ENDOMETRIUM	Female		39			Asian	well differentiated endometrial adenocarcinoma
+NCIH596_LUNG	Male		73	Caucasian		Caucasian	
+NCIH650_LUNG	Male		NA			Caucasian	
+SW1573_LUNG	Female		44	Caucasian		Caucasian	lung_cancer
+OVMANA_OVARY	Female		51	Asian	japan	Asian	
+SKCO1_LARGE_INTESTINE	Male		65	Caucasian		Caucasian	
+KARPAS299_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		25			Caucasian	CD30+_anaplastic_large_cell_lymphoma
+YAPC_PANCREAS	Male		43	Asian	japan	Asian	
+HT1197_URINARY_TRACT	Male		44	Caucasian		Caucasian	
+A253_SALIVARY_GLAND	Male		54	Caucasian		Caucasian	
+HCC366_LUNG	Female		80			Caucasian	lung_cancer
+DKMG_CENTRAL_NERVOUS_SYSTEM	Female		67			Caucasian	
+SNU349_KIDNEY	Male		68	Asian		Asian	
+UMUC1_URINARY_TRACT	Male		NA	African_American		African_american	
+NAMALWA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		3			African_american	lymphoma
+NCIH292_LUNG	Female		32	African_American		African_american	
+59M_OVARY	Female		NA			Caucasian	ovarian_carcinoma
+U118MG_CENTRAL_NERVOUS_SYSTEM			NA			Caucasian	brain_cancer
+VMRCLCD_LUNG	Male		NA			Caucasian	lung_cancer
+HCC1833_LUNG	Female		69	Caucasian		African_american	lung_cancer
+RH30_SOFT_TISSUE	Male		17	Caucasian		Caucasian	
+TCCSUP_URINARY_TRACT	Female		67			Caucasian	
+SNU601_STOMACH	Male		34	Asian	korea	Asian	
+CAL33_UPPER_AERODIGESTIVE_TRACT	Male		69			Caucasian	
+SNU668_STOMACH	Male		63	Asian	korea	Asian	
+CORL279_LUNG	Male		63			Caucasian	
+GB1_CENTRAL_NERVOUS_SYSTEM	Male		35			Asian	
+KURAMOCHI_OVARY	Female		NA	Asian		Asian	
+COLO775_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		57			African_american	
+COLO684_ENDOMETRIUM	Female		63			Caucasian	
+KLM1_PANCREAS			NA			Asian	
+GRM_SKIN	Male		36	Caucasian		Asian	
+SNU685_ENDOMETRIUM	Female		70	Asian		Asian	
+CMK86_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE			NA			Asian	
+SNU886_LIVER	Male		57	Asian	korea	Asian	
+HCT8_LARGE_INTESTINE	Male		67			NA	colon_cancer
+NCCSTCK140_STOMACH	Female		36			Asian	
+NCIH3255_LUNG			NA			Caucasian	
+SNU719_STOMACH	Male		53	Asian	korea	Asian	
+SNU489_CENTRAL_NERVOUS_SYSTEM	Male		54	Asian		Asian	
+SNU81_LARGE_INTESTINE	Male		53	Asian		Asian	
+A2058_SKIN	Male		43	Caucasian		Caucasian	melanoma
+HTK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE			NA			Caucasian	
+SNU1040_LARGE_INTESTINE	Male		34	Asian		Asian	
+SNU1076_UPPER_AERODIGESTIVE_TRACT	Male		60	Asian		Asian	
+SNU175_LARGE_INTESTINE	Female		56	Asian		Asian	
+SNU407_LARGE_INTESTINE	Male		37	Asian		Asian	
+SNU201_CENTRAL_NERVOUS_SYSTEM	Male		58	Asian		Asian	
+KMS20_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		65	Asian		Asian	multiple_myeloma
+SNU216_STOMACH	Female		46	Asian	korea	Asian	
+SNU1196_BILIARY_TRACT			NA			Asian	
+SNU1079_BILIARY_TRACT			NA			Asian	
+HCC1195_LUNG	Male		47	African_American		African_american	lung_cancer
+NCIH854_LUNG			NA			Caucasian	
+SNU466_CENTRAL_NERVOUS_SYSTEM	Male		61	Asian		Asian	
+YD38_UPPER_AERODIGESTIVE_TRACT	Male		67	Asian		Asian	
+SNU1105_CENTRAL_NERVOUS_SYSTEM	Male		61	Asian		Asian	
+SNU283_LARGE_INTESTINE	Female		62	Asian		Asian	
+SNU46_UPPER_AERODIGESTIVE_TRACT	Male		66	Asian		Asian	
+SNU308_BILIARY_TRACT			NA			Asian	
+YD8_UPPER_AERODIGESTIVE_TRACT	Female		46	Asian		Asian	
+SNU245_BILIARY_TRACT			NA			Asian	
+SNU478_BILIARY_TRACT			NA			Asian	
+SNU410_PANCREAS	Male		53	Asian		Asian	
+SNU899_UPPER_AERODIGESTIVE_TRACT	Male		56	Asian		Asian	
+SNU503_LARGE_INTESTINE	Male		52	Asian		Asian	
+SET2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		71			Asian	
+SNU738_CENTRAL_NERVOUS_SYSTEM	Male		40	Asian		Asian	
+SNU626_CENTRAL_NERVOUS_SYSTEM	Male		65	Asian		Asian	
+SNU869_BILIARY_TRACT			NA			Asian	
+SNU878_LIVER	Female		54	Asian		Asian	
+SNU840_OVARY	Female		45	Asian		Asian	
+SNU8_OVARY	Female		55	Asian		Asian	
+NCIH684_LIVER			55			Caucasian	
+IGR39_SKIN	Male		26			Caucasian	Skin Cancer
+DAOY_CENTRAL_NERVOUS_SYSTEM	Male		4	Caucasian		Caucasian	
+HEP3B217_LIVER	Male		8	African_American		African_american	hepatocellular_cancer
+KYM1_SOFT_TISSUE			1	Asian		Asian	
+LC1F_LUNG	Male		69	Asian		Asian	lung_cancer
+HLE_LIVER	Male		68	Asian	japan	Asian	
+CMK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		0.8333			Asian	Down syndrome; acute megakaryoblastic leukaemia
+JMSU1_URINARY_TRACT	Male		75			Asian	
+IMR32_AUTONOMIC_GANGLIA	Male		1	Caucasian		Caucasian	neuroblastoma
+SUDHL8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		59			Caucasian	
+T3M4_PANCREAS	Male		64	Asian		Asian	
+COLO818_SKIN			NA			Caucasian	
+PK45H_PANCREAS			NA			Asian	
+HEC59_ENDOMETRIUM	Female		NA	Asian	japan	Asian	
+CPCN_LUNG			NA			Caucasian	
+T3M10_LUNG	Male		40	Asian		Asian	
+NUGC2_STOMACH	Female		56			Asian	
+PLCPRF5_LIVER	Male		24			African_american	
+KPNYN_AUTONOMIC_GANGLIA	Male		2			Asian	neuroblastoma
+CCFSTTG1_CENTRAL_NERVOUS_SYSTEM	Female		68	Caucasian		Caucasian	brain_cancer
+NCIH929_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		62	Caucasian		Caucasian	multiple_myeloma
+KMRC3_KIDNEY	Male	adult	NA	Asian	japan	Asian	
+NCIH2023_LUNG	Male		26	Caucasian		Caucasian	
+DMS153_LUNG	Male		44	Caucasian		Caucasian	
+NCIH1048_LUNG	Female		NA			African_american	
+D341MED_CENTRAL_NERVOUS_SYSTEM	Male		3.5			Caucasian	medulloblastoma
+NCIH660_PROSTATE	Male		63	Caucasian		Caucasian	small_cell_carcinoma
+NCIH1618_LUNG	Female		55	Caucasian		Caucasian	
+HS675T_FIBROBLAST	Male		NA	Caucasian		Caucasian	
+PEER_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		4			Caucasian	T-ALL
+SKM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		76	Asian	japan	Asian	
+HT144_SKIN	Male		29	Caucasian		Caucasian	
+SKMEL31_SKIN	Female		NA			Caucasian	malignant_melanoma
+HS839T_FIBROBLAST	Female		42	Caucasian		Caucasian	
+HS939T_SKIN	Female		24	Caucasian		Caucasian	
+OCILY3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE			NA			Caucasian	
+HS819T_FIBROBLAST	Male		60	Caucasian		Caucasian	
+NCIH69_LUNG	Male		55	Caucasian		Caucasian	papillary_adenocarcinoma
+DV90_LUNG	Male		50			Caucasian	lung_cancer
+ZR751_BREAST	Female		63	Caucasian		Caucasian	breast_cancer
+KG1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		59	Caucasian		African_american	
+SKNBE2_AUTONOMIC_GANGLIA	Male		2.166666667			Caucasian	neuroblastoma
+HCC70_BREAST	Female		49	African_American		African_american	breast_cancer
+NCIH2452_PLEURA	Male		NA			Caucasian	
+SNU1_STOMACH	Male		44	Asian		Asian	poorly_differentiated_gastric carcinoma
+LOUCY_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		38	Caucasian		Caucasian	
+HCC56_LARGE_INTESTINE			NA			Asian	
+NCIH1648_LUNG	Male		39	African_American		African_american	lung_cancer
+TO175T_FIBROBLAST	Male		29	Caucasian		Caucasian	
+GLC82_LUNG	Female		58	Asian	chinese	African_american	
+MPP89_PLEURA	Male		67			Caucasian	
+PANC0813_PANCREAS	Male		85	Caucasian		Caucasian	
+MG63_BONE	Male		14	Caucasian		Caucasian	
+PK1_PANCREAS			NA			Asian	
+HS840T_FIBROBLAST	Male		7	Caucasian		Caucasian	
+NCIH23_LUNG	Male		51	African_American		African_american	non_small_cell_lung_cancer
+TE617T_SOFT_TISSUE	Female		1.67	Caucasian		Caucasian	
+SW1088_CENTRAL_NERVOUS_SYSTEM	Male		72	Caucasian		Caucasian	brain_cancer
+ISTMES2_PLEURA	Male		71	Caucasian		Caucasian	
+NCIH1373_LUNG	Male		56	African_American		African_american	
+NCIH1930_LUNG	Male		41	Caucasian		Caucasian	
+NCIH1623_LUNG	Male		58	Caucasian		Caucasian	
+HS229T_FIBROBLAST	Male		65	Caucasian		Caucasian	
+NCIH1838_LUNG	Female		NA			Caucasian	
+NCIH1836_LUNG	Male		52	Caucasian		Caucasian	
+HS688AT_FIBROBLAST	Male		69	Caucasian		Caucasian	
+PANC0504_PANCREAS	Female		77	Caucasian		Caucasian	
+HS822T_FIBROBLAST	Female		9	Caucasian		Caucasian	
+BL70_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		16	Caucasian		Caucasian	
+CI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		38			Caucasian	
+G292CLONEA141B1_BONE	Female		9	Caucasian		Caucasian	
+RCM1_LARGE_INTESTINE	Female		73			Asian	rectum; adenocarcinoma; well differentiated
+HS737T_FIBROBLAST	Female		10	Caucasian		Caucasian	
+HS616T_FIBROBLAST	Male		16	Caucasian		Caucasian	
+HS600T_FIBROBLAST			NA			Caucasian	
+TE159T_FIBROBLAST	Male		6	Caucasian		Caucasian	rhabdomyosarcoma
+A101D_SKIN	Male		56	Caucasian		Caucasian	
+NCIH1755_LUNG	Female		65	Caucasian		Caucasian	
+143B_BONE	Female		13	Caucasian		Caucasian	
+RERFLCKJ_LUNG	Male		78			Asian	lung_cancer
+NCIH1693_LUNG	Female		55	Caucasian		Caucasian	
+SW780_URINARY_TRACT	Female		80	Caucasian		Caucasian	
+HS683_CENTRAL_NERVOUS_SYSTEM	Male		76	Caucasian		Caucasian	
+RKO_LARGE_INTESTINE			NA			African_american	
+HS729_SOFT_TISSUE	Male		74	Caucasian		Caucasian	rhabdomyosarcoma
+JHOS2_OVARY	Female		45	Asian		Asian	
+MCF7_BREAST	Female		69	Caucasian		Caucasian	breast_cancer
+U937_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		37	Caucasian		Caucasian	histiocytic_lymphoma
+SKLMS1_SOFT_TISSUE	Female		43	Caucasian		Caucasian	
+HUTU80_SMALL_INTESTINE	Male		53	Caucasian		African_american	
+HCC202_BREAST	Female		82	Caucasian		Caucasian	ductal_carcinoma
+MEG01_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		55			Asian	
+REH_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		15	North_African		Caucasian	
+ONS76_CENTRAL_NERVOUS_SYSTEM	Female		2			Asian	
+RPMI6666_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE			NA			Caucasian	
+SNUC1_LARGE_INTESTINE	Male		71	Asian		Asian	
+SKNDZ_AUTONOMIC_GANGLIA	Female		2	Caucasian		Caucasian	neuroblastoma
+DMS114_LUNG	Male		68	Caucasian		Caucasian	lung_cancer
+TT_OESOPHAGUS	Na	NA	NA	Na	NA	NA	NA
+OCILY10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE			NA			Caucasian	
+ST486_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		NA			Caucasian	
+OC315_OVARY	Female		49			NA	
+OC314_OVARY	Female		39			Caucasian	
+SW1353_BONE	Female		72	Caucasian		Caucasian	
+MDAMB157_BREAST	Female		44	African_American		African_american	breast_cancer
+LN18_CENTRAL_NERVOUS_SYSTEM	Male		65	Caucasian		Caucasian	
+769P_KIDNEY	Female		63	Caucasian		Caucasian	kidney_cancer
+786O_KIDNEY	Male		58	Caucasian		Caucasian	kidney_cancer
+CAOV3_OVARY	Female		54	Caucasian		Caucasian	
+HEPG2_LIVER	Male		15	Caucasian	argentina	Caucasian	liver_cancer
+MOLT4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		19			Caucasian	leukaemia
+NCIH524_LUNG	Male		63	Caucasian		Caucasian	
+NCIH209_LUNG	Male		55	Caucasian		Caucasian	lung_cancer
+MIAPACA2_PANCREAS	Male		65	Caucasian		Caucasian	
+MCAS_OVARY	Female		NA			Asian	Ovarian Cancer
+SBC5_LUNG			NA			Asian	lung_cancer
+COLO829_SKIN	Male		45	Caucasian		Caucasian	
+VCAP_PROSTATE	Male		59	Caucasian		Caucasian	prostate_cancer
+COLO704_OVARY	Female		46	Caucasian		Caucasian	metastatic_ovarian_cancer
+IPC298_SKIN	Female		64			Caucasian	
+CAPAN2_PANCREAS	Male		56	Caucasian		Caucasian	
+EFM192A_BREAST	Female		46	Caucasian		Caucasian	breast_cancer
+HS766T_PANCREAS	Male		46	Caucasian		Caucasian	
+EFO27_OVARY	Female		36			Caucasian	
+A2780_OVARY	Female		NA			African_american	ovarian_cancer
+NCIH196_LUNG	Male		68	Caucasian		Caucasian	
+IGROV1_OVARY	Female		47			Caucasian	ovarian_cancer
+NCIH889_LUNG	Female		69	Caucasian		Caucasian	
+NCIH211_LUNG	Female		50	Caucasian		Caucasian	
+HS571T_OVARY	Female		65	Caucasian		Caucasian	
+MDAPCA2B_PROSTATE	Male		63	African_American		African_american	prostate_cancer
+SKMEL24_SKIN	Male		67	Caucasian		Caucasian	
+K029AX_SKIN			NA			Caucasian	Skin Cancer
+HT1376_URINARY_TRACT	Female		58	Caucasian		Caucasian	
+NCIH2171_LUNG	Male		50	Caucasian		Caucasian	
+PANC1005_PANCREAS	Male		NA	Caucasian		Caucasian	
+EVSAT_BREAST	Female		NA			Caucasian	
+HS695T_SKIN	Male		26	Caucasian		Caucasian	melanoma
+CHL1_SKIN			NA			Caucasian	
+LOUNH91_LUNG	Female		64			Caucasian	Lung Cancer
+LK2_LUNG			NA			Asian	lung_cancer
+TOV21G_OVARY	Female		62			Caucasian	
+SKMEL3_SKIN	Female		42	Caucasian		Caucasian	
+ASPC1_PANCREAS	Female		62	Caucasian		Caucasian	pancreatic_cancer
+OVSAHO_OVARY	Female		56	Asian	japan	Asian	Ovarian Cancer
+NCIH441_LUNG			NA			Caucasian	
+RERFLCSQ1_LUNG	Female		74	Asian		Asian	Lung Cancer
+NCIH2030_LUNG	Male		NA			Caucasian	
+HMCB_SKIN			NA			Caucasian	Skin Cancer
+FUOV1_OVARY	Female		65	Asian	japan	Asian	ovarian_cancer
+MALME3M_SKIN	Male		43	Caucasian		Caucasian	skin_cancer
+KMS12BM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		64			Asian	Multiple Myeloma
+T98G_CENTRAL_NERVOUS_SYSTEM	Male		61	Caucasian		Caucasian	brain_cancer
+HL60_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		35	Caucasian		Caucasian	leukaemia
+DBTRG05MG_CENTRAL_NERVOUS_SYSTEM	Female		59	Caucasian		Caucasian	
+HEYA8_OVARY	Female		NA			Caucasian	Ovarian Cancer
+NCIH2122_LUNG	Female		46	Caucasian		Caucasian	lung_cancer
+MELJUSO_SKIN	Female		58			Caucasian	melanoma
+SW620_LARGE_INTESTINE	Male		51	Caucasian		Caucasian	colon_cancer
+HCT116_LARGE_INTESTINE	Male	adult	NA			Caucasian	colon_carcinoma
+VMRCRCZ_KIDNEY			NA	Asian		Caucasian	
+DU145_PROSTATE	Male		69	Caucasian		Caucasian	prostate_cancer
+MM1S_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE			NA			African_american	myeloma
+L33_PANCREAS			NA			African_american	Pancreatic Cancer
+SKMEL2_SKIN	Male		60	Caucasian		Caucasian	skin_cancer
+A549_LUNG	Male		58	Caucasian		Caucasian	lung_cancer
+A172_CENTRAL_NERVOUS_SYSTEM	Male		53			Caucasian	brain_cancer
+NCIH1975_LUNG	Female		NA			Caucasian	lung_cancer
+COLO679_SKIN	Female		47			Caucasian	
+KP2_PANCREAS	Female		65	Asian		Asian	Pancreatic Cancer
+HUH1_LIVER	Male		35	Asian	japan	Asian	
+MDAMB453_BREAST	Female		48	Caucasian		Caucasian	breast_cancer
+PANC0403_PANCREAS	Male		70	Caucasian		Caucasian	
+TYKNU_OVARY	Female		NA	Asian		Asian	
+OVISE_OVARY	Female		40	Asian	japan	Asian	Ovarian Cancer
+EFM19_BREAST	Female		50	Caucasian		Caucasian	breast_cancer
+MELHO_SKIN	Female		NA			Caucasian	
+RL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		52	Caucasian		Caucasian	non-Hodgkins lymphoma
+G361_SKIN	Male		31	Caucasian		Caucasian	
+NCIH647_LUNG	Male		56	Caucasian		Caucasian	
+GMS10_CENTRAL_NERVOUS_SYSTEM	Male		49			Caucasian	
+SEM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		5			Caucasian	
+HLFA_FIBROBLAST	Female		54	African_American		African_american	
+42MGBA_CENTRAL_NERVOUS_SYSTEM	Male		63			Caucasian	Brain Cancer
+KCIMOH1_PANCREAS	Female		64	Caucasian		Caucasian	Pancreatic Cancer
+HCC44_LUNG	Female		54	Caucasian		Caucasian	lung_cancer
+KYSE70_OESOPHAGUS	Male		77	Asian	japan	Asian	
+1321N1_CENTRAL_NERVOUS_SYSTEM			NA			Caucasian	Brain Cancer
+GAMG_CENTRAL_NERVOUS_SYSTEM	Female		42			Caucasian	
+NCIH522_LUNG	Male		60	Caucasian		Caucasian	lung_cancer
+EN_ENDOMETRIUM	Female		50	Asian	japan	Asian	Endometrial Cancer
+PK59_PANCREAS			NA			Asian	Pancreatic Cancer
+SNB19_CENTRAL_NERVOUS_SYSTEM	Male		47			Caucasian	brain_cancer
+COLO741_SKIN	Female		69			Caucasian	colon_carcinoma and melanoma
+HDMYZ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE			29			Caucasian	
+NCIH661_LUNG	Male		43	Caucasian		Caucasian	large_cell_lung_cancer
+LNCAPCLONEFGC_PROSTATE	Male		50	Caucasian		Caucasian	prostate_cancer
+LS411N_LARGE_INTESTINE	Male		32	Caucasian		Caucasian	
+HCC78_LUNG	Male		65	Caucasian		Caucasian	lung_cancer
+YKG1_CENTRAL_NERVOUS_SYSTEM	Female		NA			Asian	Brain Cancer
+ESS1_ENDOMETRIUM	Female		76	Caucasian		Caucasian	
+U251MG_CENTRAL_NERVOUS_SYSTEM	Male		NA			Caucasian	Brain Cancer
+TE11_OESOPHAGUS			58			Asian	
+KS1_CENTRAL_NERVOUS_SYSTEM	Female		NA			Asian	
+HEC1A_ENDOMETRIUM	Female		71			Asian	
+TE1_OESOPHAGUS	Male		NA			Asian	
+JHUEM2_ENDOMETRIUM	Female		62	Asian		Asian	Endometrial Cancer
+MOGGUVW_CENTRAL_NERVOUS_SYSTEM			NA			Caucasian	
+RERFLCAD1_LUNG	Male		70	Asian		Asian	
+TE5_OESOPHAGUS	Female		73			Asian	
+KELLY_AUTONOMIC_GANGLIA			NA			Caucasian	neuroblastoma
+NCIH1155_LUNG	Male		36	Caucasian		Caucasian	
+TE15_OESOPHAGUS	Female		NA			Asian	
+ABC1_LUNG	Male		47			Asian	lung_cancer
+8MGBA_CENTRAL_NERVOUS_SYSTEM	Female		54	African_American		Caucasian	
+NCIH1703_LUNG	Male		54	Caucasian		Caucasian	lung_cancer
+AGS_STOMACH	Female		54	Caucasian		Caucasian	
+QGP1_PANCREAS	Male		61	Asian		Asian	Pancreatic Cancer
+DETROIT562_UPPER_AERODIGESTIVE_TRACT	Female	adult	NA	Caucasian		Caucasian	
+BT474_BREAST	Female		60	Caucasian		Caucasian	breast_cancer
+ACHN_KIDNEY	Male		22	Caucasian		Caucasian	kidney_cancer
+LOVO_LARGE_INTESTINE	Male		56	Caucasian		Caucasian	colorectal_cancer
+NCIH1581_LUNG	Male		44	Caucasian		Caucasian	
+SCABER_URINARY_TRACT	Male		58	African_American		African_american	
+SKMEL30_SKIN	Male		67	Caucasian		Caucasian	
+OVKATE_OVARY	Female		40	Asian		Asian	Ovarian Cancer
+22RV1_PROSTATE	Male		NA			Caucasian	prostate_cancer
+C32_SKIN	Male		53	Caucasian		Caucasian	
+PANC0327_PANCREAS	Female		65	Caucasian		Caucasian	
+RPMI8226_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		61			African_american	myeloma
+DLD1_LARGE_INTESTINE	Male		NA			Caucasian	
+ES2_OVARY	Female		47	African_American		Caucasian	ovarian_cancer
+NCIH1395_LUNG	Female		55	Caucasian		Caucasian	lung_cancer
+NCIH1781_LUNG	Female		66	Caucasian		Caucasian	
+LS1034_LARGE_INTESTINE	Male		54	Caucasian		Caucasian	
+G402_SOFT_TISSUE	Female		0.75	Caucasian		Caucasian	renal_leiomyoblastoma
+NCIH146_LUNG	Male		59	Caucasian		Caucasian	
+SW48_LARGE_INTESTINE	Female		82	Caucasian		Caucasian	
+CHP212_AUTONOMIC_GANGLIA			NA			Caucasian	neuroblastoma
+LS180_LARGE_INTESTINE	Female		58	Caucasian		Caucasian	colon_cancer
+SW403_LARGE_INTESTINE	Female		51	Caucasian		Caucasian	
+NCIH747_LARGE_INTESTINE	Male		69	Caucasian		Caucasian	
+RT4_URINARY_TRACT	Male		63	Caucasian		Caucasian	
+KATOIII_STOMACH	Male		55	Asian		Asian	
+BDCM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		NA			Caucasian	acute myelogenous leukemia M5a
+SW1417_LARGE_INTESTINE	Female		53	Caucasian		Caucasian	
+SW948_LARGE_INTESTINE	Female		81	Caucasian		Caucasian	
+HS606T_FIBROBLAST	Female		44	Caucasian		Caucasian	Breast Cancer
+MDAMB415_BREAST	Female		38	Caucasian		Caucasian	breast_adenocarcinoma
+DMS79_LUNG			65	Caucasian		Caucasian	
+NCIH2106_LUNG	Male		58	Caucasian		Caucasian	
+SW579_THYROID	Male		59	Caucasian		Caucasian	thyroid_squamous_cell_carcinoma
+MDAMB468_BREAST	Female		51	African_American		African_american	breast_cancer
+NCIH526_LUNG	Male		55	Caucasian		Caucasian	lung_cancer
+TOV112D_OVARY	Female		42	Caucasian	canada	Caucasian	endometrioid_carcinoma
+BT549_BREAST	Female		72	Caucasian		Caucasian	breast_cancer
+NCIH2196_LUNG	Male		67	Caucasian		Caucasian	
+CAL851_BREAST	Female		35			Caucasian	breast_cancer
+EFO21_OVARY	Female		56	Caucasian		Caucasian	
+A375_SKIN	Female		54			Caucasian	
+HT29_LARGE_INTESTINE	Female		44	Caucasian		Caucasian	colon_cancer
+NCIH446_LUNG	Male		61	Caucasian		Caucasian	
+HS294T_SKIN	Male		56	Caucasian		Caucasian	melanoma
+SKMEL5_SKIN	Female		24	Caucasian		Caucasian	skin_cancer
+HS944T_SKIN	Male		51	Caucasian		Caucasian	
+TCCPAN2_PANCREAS	Female		68	Asian		Asian	Pancreatic Cancer
+DOV13_OVARY	Female		NA			Caucasian	Ovarian Cancer
+RMGI_OVARY	Female		34			Asian	
+PC3_PROSTATE	Male		62	Caucasian		Caucasian	prostate_cancer
+K562_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		53			Caucasian	leukaemia
+RT112_URINARY_TRACT	Female		NA			Caucasian	
+NUGC3_STOMACH	Male		72			Asian	
+U87MG_CENTRAL_NERVOUS_SYSTEM	Female		44	Caucasian		Caucasian	brain_cancer
+CAKI2_KIDNEY	Male		69	Caucasian		Caucasian	
+OE19_OESOPHAGUS	Male		72			Caucasian	
+KMRC2_KIDNEY	Male		NA	Asian		Asian	Kidney Cancer
+JHH2_LIVER	Male		57	Asian	japan	Asian	
+IM95_STOMACH	Male		63	Asian	japan	Asian	
+MV411_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		10			Caucasian	leukaemia
+WM2664_SKIN	Female		58			Caucasian	melanoma
+KMRC1_KIDNEY	Male		NA			Asian	Kidney Cancer
+KM12_LARGE_INTESTINE			NA			Caucasian	colon_cancer
+COLO849_SKIN	Male		43	Caucasian		Caucasian	Skin Cancer
+T84_LARGE_INTESTINE	Male		72			Caucasian	
+CALU1_LUNG	Male		47	Caucasian		Caucasian	lung_cancer
+LOXIMVI_SKIN	Male		58			Caucasian	skin_cancer
+NCIH2170_LUNG	Male		NA			Caucasian	
+SQ1_LUNG			NA			Asian	Lung Cancer
+AN3CA_ENDOMETRIUM	Female		55	Caucasian		Caucasian	
+NCIH2444_LUNG	Male		NA			Caucasian	
+UACC257_SKIN			NA			Caucasian	melanoma
+KYSE510_OESOPHAGUS	Female		67	Asian	japan	Asian	
+MOLM13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		20			Asian	Leukemia
+HUPT4_PANCREAS	Male		60	Asian	japan	Asian	
+MOGGCCM_CENTRAL_NERVOUS_SYSTEM			NA			Caucasian	
+KYSE30_OESOPHAGUS	Male		64	Asian	japan	Asian	Esophageal Cancer
+KYSE150_OESOPHAGUS	Female		49	Asian	japan	Asian	
+PSN1_PANCREAS			NA			Asian	
+NCIH1299_LUNG	Male		43	Caucasian		Caucasian	lung_cancer
+PATU8988T_PANCREAS	Female		64			Caucasian	
+IGR37_SKIN	Male		26			Caucasian	Skin Cancer
+LN443_CENTRAL_NERVOUS_SYSTEM	Male		NA	Na	NA	Caucasian	NA
+SLR23_KIDNEY			NA			Caucasian	
+HMEL_BREAST			NA			African_american	
+OELE_OVARY			NA			Caucasian	
+LN235_CENTRAL_NERVOUS_SYSTEM	Male		NA	Na	NA	Caucasian	NA
+BJHTERT_SKIN			NA			NA	
+LN428_CENTRAL_NERVOUS_SYSTEM	Male		NA	Na	NA	Caucasian	NA
+SLR24_KIDNEY			NA			Caucasian	
+EWS502_BONE			NA			Caucasian	
+SALE_LUNG			NA			Caucasian	
+HCC2814_LUNG			NA			Caucasian	
+SKRC31_KIDNEY			NA			NA	
+TIG3TD_FIBROBLAST			NA			NA	
+TC32_BONE	Female		NA	Na	NA	NA	NA
+SF172_CENTRAL_NERVOUS_SYSTEM	Female		NA			NA	
+PRECLH_PROSTATE			NA			Caucasian	
+U343_CENTRAL_NERVOUS_SYSTEM			NA			Caucasian	
+RCC4_KIDNEY			NA	Na	NA	NA	NA
+LN215_CENTRAL_NERVOUS_SYSTEM			NA	Na	NA	Caucasian	NA
+LN464_CENTRAL_NERVOUS_SYSTEM	Male		NA	Na	NA	Caucasian	NA
+SLR25_KIDNEY			NA			Caucasian	
+U178_CENTRAL_NERVOUS_SYSTEM	Male		NA			Caucasian	
+F5_CENTRAL_NERVOUS_SYSTEM	Male		NA			NA	
+HEKTE_KIDNEY			NA			Caucasian	
+SLR26_KIDNEY			NA			Caucasian	
+SKRC20_KIDNEY			NA			Caucasian	
+SF767_CERVIX	Female		NA			Caucasian	
+A1207_CENTRAL_NERVOUS_SYSTEM	Female		NA			Caucasian	
+LN319_CENTRAL_NERVOUS_SYSTEM	Male		NA	Na	NA	Caucasian	NA
+HCC364_LUNG			NA			Caucasian	
+UMRC6_KIDNEY			NA			NA	
+LN382_CENTRAL_NERVOUS_SYSTEM	Male		NA			Caucasian	
+IOMMLEE_CENTRAL_NERVOUS_SYSTEM			NA			Asian	
+UMRC2_KIDNEY			NA	Na	NA	NA	NA
+DFCI024_LUNG			NA			NA	
+HCC1897_LUNG			NA			NA	
+SLR21_KIDNEY			NA			Caucasian	
+LNZ308_CENTRAL_NERVOUS_SYSTEM	Female		NA			Caucasian	
+LN340_CENTRAL_NERVOUS_SYSTEM	Male		NA	Na	NA	Caucasian	NA
+HCC827GR5_LUNG			NA			Caucasian	
+SLR20_KIDNEY			NA			Caucasian	
+HK2_KIDNEY			NA			NA	
+EW8_BONE			NA			Caucasian	
+UOK101_KIDNEY	Female		NA			Caucasian	
+JHESOAD1_OESOPHAGUS	Male		NA			NA	
+CH157MN_CENTRAL_NERVOUS_SYSTEM			NA			Caucasian	
+MOLP2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		55			Asian	
+SCC25_UPPER_AERODIGESTIVE_TRACT	Male		70			Caucasian	
+UT7_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		64			Asian	
+MHHNB11_AUTONOMIC_GANGLIA	Male		4	Caucasian		Caucasian	
+HCC1806_BREAST	Female		60	African_American		African_american	breast_cancer
+GRANTA519_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		58	Caucasian		Caucasian	mantle_cell_lymphoma
+MONOMAC6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		64			Caucasian	
+MKN7_STOMACH	Male		39	Asian	japan	Asian	
+SW1710_URINARY_TRACT	Female		84	Caucasian		Caucasian	
+MOLT13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		2			Caucasian	
+SR786_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		11			Caucasian	anaplastic_large_cell_lymphoma
+SCC15_UPPER_AERODIGESTIVE_TRACT	Male		55			Caucasian	
+RS5_FIBROBLAST	Male		78			Caucasian	
+NCIH2126_LUNG	Male		65	Caucasian		Caucasian	lung_cancer
+NCIH2141_LUNG	Male		58	Caucasian		Caucasian	
+NCIH1385_LUNG			NA			African_american	
+HCC827_LUNG	Female		39	Caucasian		Caucasian	lung_cancer
+RD_SOFT_TISSUE	Female		7	Caucasian		Caucasian	
+TT_THYROID	Female		77	Caucasian		Caucasian	medulla_carcinoma
+TF1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		35	Asian	japan	Asian	
+HS172T_FIBROBLAST	Male		50	Caucasian		Caucasian	
+HS834T_FIBROBLAST			NA			Caucasian	
+TE125T_FIBROBLAST	Female		1	Caucasian		Caucasian	
+8305C_THYROID	Female		67			Asian	
+UACC812_BREAST	Female		43			Caucasian	invasive_ductal_carcinoma
+ALLSIL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		17			Caucasian	TALL
+KASUMI2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		15			Asian	acute lymphoblastic leukemia
+DND41_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		13			Caucasian	TALL
+ME1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		40	Asian	japan	Asian	
+DM3_FIBROBLAST	Male		62			Caucasian	
+JEKO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		78			Asian	mantle_cell_lymphoma
+JJN3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		57			Caucasian	multiple_myeloma
+NUDHL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		73	Caucasian		Caucasian	
+CL14_LARGE_INTESTINE	Male		NA			Caucasian	
+KYO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		22	Asian	japan	Asian	
+JL1_PLEURA	Male		54			Caucasian	
+CAL148_BREAST	Female		58		france	Caucasian	breast_cancer
+NALM19_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		26			Asian	
+HPBALL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		14	Asian	japan	Asian	TALL
+SUPT11_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		74			Caucasian	
+CL40_LARGE_INTESTINE	Female		NA			Caucasian	
+MDAMB134VI_BREAST	Female		47	Caucasian		Caucasian	invasive_ductal_carcinoma
+HCC1500_BREAST	Female		32	African_American		African_american	ductal_carcinoma
+HCC1599_BREAST	Female		44	Caucasian		Caucasian	
+SUPHD1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		37			Caucasian	
+MOTN1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		65			Asian	
+OCIAML3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		57			Caucasian	
+SUDHL10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		25			Caucasian	diffuse_histiocytic_lymphoma
+SUDHL4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		38			Caucasian	diffuse_histiocytic_lymphoma
+RH41_SOFT_TISSUE	Female		NA			Caucasian	
+OCILY19_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		27			Caucasian	germinal center B-cell-like (GCB) DLBCL
+MOLM6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		44			Asian	
+SKMM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		54			Caucasian	
+KASUMI6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		64	Asian		Asian	
+HS698T_FIBROBLAST	Male		70	American_Indian		Caucasian	
+UACC893_BREAST	Female		57	Caucasian		Caucasian	breast_cancer
+MINO_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		64	Caucasian		Caucasian	mantle_cell_lymphoma
+CHP126_AUTONOMIC_GANGLIA	Female		1.166666667			Caucasian	neuroblastoma
+COLO680N_OESOPHAGUS	Female		57	African_American		African_american	
+COLO678_LARGE_INTESTINE	Male		69			Caucasian	
+LAMA84_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		29			Caucasian	
+CMLT1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		36			Asian	
+EHEB_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		69			Caucasian	
+CAL54_KIDNEY	Male		75			Caucasian	
+BV173_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		45			Caucasian	
+DOHH2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		60			Caucasian	
+EOL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		33			Caucasian	
+NALM6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		19			Caucasian	
+VMCUB1_URINARY_TRACT	Male		NA			Caucasian	
+LP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		56			Caucasian	multiple_myeloma
+LXF289_LUNG	Male		63			Caucasian	
+MONOMAC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		64			Caucasian	
+PL21_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		24			Asian	
+PF382_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		6			Caucasian	TALL
+NALM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		3			African_american	
+OCIAML2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		65			Caucasian	
+MHHCALL3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		11			Caucasian	
+JURLMK1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		73			Caucasian	
+OCIAML5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		77			Caucasian	
+KE37_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		27			Caucasian	
+JK1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		62			Asian	
+RI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		57			Caucasian	b_cell_non_hodgkin_lymphoma
+KARPAS422_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		73			Caucasian	
+L540_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		20			Caucasian	
+CAL78_BONE	Male		76			Caucasian	chondrosarcoma
+HDQP1_BREAST	Female		50	Caucasian		Caucasian	breast_cancer
+MHHCALL4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		10	Caucasian		Caucasian	
+MUTZ5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		26			Caucasian	
+ONCODG1_OVARY	Female		60	Caucasian		Caucasian	ovarian_cancer
+HDLM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		74			Caucasian	
+CAL29_URINARY_TRACT	Female		80			Caucasian	
+KOPN8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female	pediatric	0.25			Asian	
+SCLC21H_LUNG	Male		46	Caucasian		Caucasian	
+CALU3_LUNG	Male		25	Caucasian		Caucasian	lung_cancer
+NCIH1435_LUNG	Female		35			Caucasian	
+NCIH2009_LUNG	Female		68	Caucasian		Caucasian	lung_cancer
+NCIH1869_LUNG	Male		58	Caucasian		Caucasian	
+HS852T_SKIN			NA			Asian	
+HCC1419_BREAST	Female		42			Caucasian	breast_cancer
+BT483_BREAST	Female		23	Caucasian		Caucasian	breast_cancer
+HS281T_FIBROBLAST	Female		37	Caucasian		Caucasian	
+HS934T_FIBROBLAST	Female		58	Caucasian		Caucasian	
+HCC4006_LUNG	Male		NA	Caucasian		Caucasian	lung_cancer
+HCC1428_BREAST	Female		49	Caucasian		Caucasian	breast_cancer
+KU812_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		38	Asian		Asian	
+SHP77_LUNG	Male		54	Caucasian		Caucasian	
+TE441T_SOFT_TISSUE	Female		14	African_American		African_american	
+NB1_AUTONOMIC_GANGLIA	Male		2			Asian	neuroblastoma
+HS274T_FIBROBLAST	Female		66	Caucasian		Caucasian	
+PFEIFFER_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		NA	Caucasian		Caucasian	
+ZR7530_BREAST	Female		47	African_American		African_american	breast_cancer
+HS863T_FIBROBLAST	Female		5	Caucasian		Caucasian	
+NCIH841_LUNG	Male		51	Caucasian		Caucasian	
+HS821T_FIBROBLAST	Female		31	Caucasian		Caucasian	
+NCIH1944_LUNG	Female		62	Caucasian		Caucasian	
+NCIH2405_LUNG	Male		47	Caucasian		Caucasian	
+DEL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		12			Caucasian	
+BEN_LUNG	Male		71			Caucasian	
+COLO320_LARGE_INTESTINE	Female		55	Caucasian		Caucasian	
+RPMI8402_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		16			Caucasian	TALL
+SUDHL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		10			Caucasian	anaplastic_large_cell_lymphoma
+P12ICHIKAWA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		7			Asian	TALL
+BFTC905_URINARY_TRACT	Female		51	Asian	chinese	Asian	
+BFTC909_KIDNEY	Male		64	Asian	taiwan	Asian	
+MHHES1_BONE	Male		12	Turkish		Caucasian	
+JVM3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		73			Caucasian	
+NOMO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		31			Asian	
+NCIH727_LUNG	Female		65	Caucasian		Caucasian	
+HS343T_FIBROBLAST	Female		47	Caucasian		Caucasian	
+HCC2935_LUNG	Male		39	Caucasian		Caucasian	lung_cancer
+HS888T_FIBROBLAST	Male		20	Caucasian		Caucasian	
+MKN45_STOMACH	Female		62	Asian	japan	Asian	
+8505C_THYROID	Female		78			Asian	
+KU1919_URINARY_TRACT	Male		76			Asian	
+KCL22_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		32			Asian	
+CADOES1_BONE	Female		19	Asian	japan	Asian	Ewings_sarcoma
+S117_THYROID	Female		47			Caucasian	
+EM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		5	Caucasian		Caucasian	
+OPM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		56			Asian	multiple_myeloma
+CAL62_THYROID	Female		70			Caucasian	
+LCLC103H_LUNG	Male		61	Caucasian		Caucasian	
+JURKAT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		14			Caucasian	TALL
+697_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		12			Caucasian	
+MHHCALL2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		15	Caucasian		Caucasian	
+M07E_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female	pediatric	0.5			Caucasian	
+L428_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		37			Caucasian	lymphoma
+MOLT16_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		5			African_american	
+NB4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		23			Caucasian	
+LCLC97TM1_LUNG	Male		44	Caucasian		Caucasian	
+2313287_STOMACH	Male		72			Caucasian	
+BHT101_THYROID	Female		63			Caucasian	
+JVM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		63			Caucasian	B-prolymphocytic_leukemia
+CAL51_BREAST	Female		45			Caucasian	breast_cancer
+L363_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		36			Caucasian	plasma_cell_leukemia
+KMH2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		37			Asian	lymphoma
+SIMA_AUTONOMIC_GANGLIA	Male		1.6666	Caucasian	europe	Caucasian	
+NUDUL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		43	Caucasian		Caucasian	
+BC3C_URINARY_TRACT	Female		82	Caucasian		Caucasian	
+SUDHL6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		43			Caucasian	B-cell non-Hodgkin lymphoma
+KARPAS620_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		77			Caucasian	plasma_cell_leukemia
+REC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		61			Caucasian	mantle_cell_lymphoma
+OCIM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE			62			Caucasian	
+MEC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		61	Caucasian		Caucasian	lymphoma
+SIGM5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		63			Caucasian	
+SUDHL5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		17			Caucasian	B-cell non-Hodgkin lymphoma
+BCPAP_THYROID	Female		76			Caucasian	
+639V_URINARY_TRACT	Male		69	Caucasian		Caucasian	
+CL11_LARGE_INTESTINE			NA			Caucasian	
+TT2609C02_THYROID	Male		57	Caucasian		Caucasian	
+MEC2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		62	Caucasian		Caucasian	lymphoma
+CL34_LARGE_INTESTINE	Female		NA			Caucasian	
+RCHACV_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		8			Caucasian	acute lymphoblastic leukemia
+CAL120_BREAST	Female		43			Caucasian	breast_cancer
+647V_URINARY_TRACT	Male		NA			Caucasian	
+RH18_SOFT_TISSUE	Female	pediatric	2			NA	
+MOLM16_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		77	Asian	japan	Asian	
+F36P_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		68			Asian	
+EJM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		58			Caucasian	
+WSUDLCL2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		41	Caucasian		Caucasian	diffuse large cell lymphoma non-cleaved type
+JIMT1_BREAST	Female		62			Caucasian	breast_cancer
+ML1_THYROID			NA			Caucasian	
+AMO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Female		64			Asian	multiple_myeloma
+MOLP8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		52	Asian	japan	Asian	
+COLO699_LUNG	Female		57			Caucasian	lung_cancer
+JHUEM7_ENDOMETRIUM	Female		58	Asian	japan	Asian	
+KP1NL_PANCREAS	Male		69			Caucasian	Pancreatic Cancer
+KP1N_PANCREAS	Male		69	Asian	japan	Caucasian	
+M059J_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+MB157_BREAST	Female		48	African_American		African_american	
+OE21_OESOPHAGUS	Male		74			Caucasian	oesophageal squamous cell carcinoma
+SF8657_SKIN	Male		63	Asian	japan	NA	stomach cancer
+SNUC2B_LARGE_INTESTINE	Female		43	Na	NA	NA	NA
+NCIH2073_LUNG	Female		47	Caucasian		Caucasian	
+HN_UPPER_AERODIGESTIVE_TRACT	Male		60	Asian	japan	Asian	
+HRT18_LARGE_INTESTINE	Male		67			NA	colon_cancer
+HNT34_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+PLB985_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE			NA	Na	NA	Caucasian	NA
+SKNO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE			NA	Na	NA	Asian	NA
+MOLT3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		19			Caucasian	leukaemia
+HOP62_LUNG			NA			Caucasian	
+EKVX_LUNG			NA			Caucasian	
+OVCAR5_OVARY	Female		NA			NA	
+UO31_KIDNEY	Male		NA			Caucasian	
+TK10_KIDNEY	Na	NA	NA	Na	NA	NA	NA
+SF268_CENTRAL_NERVOUS_SYSTEM			NA			Caucasian	
+SF539_CENTRAL_NERVOUS_SYSTEM			NA			Caucasian	
+SNB75_CENTRAL_NERVOUS_SYSTEM			NA			Caucasian	
+HOP92_LUNG			NA			Caucasian	
+ACCS_URINARY_TRACT	Female		81	Caucasian		NA	transitional_cell_carcinoma
+MUTZ3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Male		29			Caucasian	
+A427_LUNG	Na	NA	NA	Na	NA	NA	NA
+BT12_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+C8166_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+CACO2_LARGE_INTESTINE	Na	NA	NA	Na	NA	NA	NA
+HCC2429_LUNG	Na	NA	NA	Na	NA	NA	NA
+HCC2450_LUNG	Na	NA	NA	Na	NA	NA	NA
+HCC461_LUNG	Na	NA	NA	Na	NA	NA	NA
+HCC515_LUNG	Na	NA	NA	Na	NA	NA	NA
+INA6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+KD_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+KPMRTRY_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+MON_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+NCIH2004RT_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+NCIH2077_LUNG	Na	NA	NA	Na	NA	NA	NA
+NCIH2882_LUNG	Na	NA	NA	Na	NA	NA	NA
+NCIH2887_LUNG	Na	NA	NA	Na	NA	NA	NA
+NCIH1819_LUNG	Na	NA	NA	Na	NA	NA	NA
+NCIH3122_LUNG	Na	NA	NA	Na	NA	NA	NA
+NHAHTDD_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+OCIMY5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+OCIMY7_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+OPM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+PC9_LUNG	Na	NA	NA	Na	NA	NA	NA
+SKNEP1_BONE	Na	NA	NA	Na	NA	NA	NA
+SKPNDW_BONE	Na	NA	NA	Na	NA	NA	NA
+STM9101_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+SIHA_CERVIX	Na	NA	NA	Na	NA	NA	NA
+TM87_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+TTC709_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+TTC1240_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+TTC549_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+TTC642_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+BT16_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+CW9019_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+D384_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+D425_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+D458_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+D556_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+JR_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+MKL1_SKIN	Na	NA	NA	Na	NA	NA	NA
+MKL2_SKIN	Na	NA	NA	Na	NA	NA	NA
+PETA_SKIN	Na	NA	NA	Na	NA	NA	NA
+SMSCTR_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+SUMB002_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+BB30HNC_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+BB49HNC_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+BICR10_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+BICR78_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+CA922_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+DOK_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+H3118_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+HO1N1_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+HO1U1_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+JHU011_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+JHU022_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+KON_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+KOSC2_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+LB771HNC_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+OSC19_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+OSC20_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+PCI15A_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+PCI30_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+PCI38_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+PCI4B_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+PCI6A_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+RPMI2650_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+SAS_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+SAT_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+SKN3_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+ESO26_OESOPHAGUS	Na	NA	NA	Na	NA	NA	NA
+ESO51_OESOPHAGUS	Na	NA	NA	Na	NA	NA	NA
+FLO1_OESOPHAGUS	Na	NA	NA	Na	NA	NA	NA
+HCE4_OESOPHAGUS	Na	NA	NA	Na	NA	NA	NA
+KYAE1_OESOPHAGUS	Na	NA	NA	Na	NA	NA	NA
+KYSE220_OESOPHAGUS	Na	NA	NA	Na	NA	NA	NA
+KYSE50_OESOPHAGUS	Na	NA	NA	Na	NA	NA	NA
+OACM51_OESOPHAGUS	Na	NA	NA	Na	NA	NA	NA
+OACP4C_OESOPHAGUS	Na	NA	NA	Na	NA	NA	NA
+SKGT4_OESOPHAGUS	Na	NA	NA	Na	NA	NA	NA
+TE12_OESOPHAGUS	Na	NA	NA	Na	NA	NA	NA
+CESS_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+CTV1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+KMOE2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+NKM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+QIMRWIL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+BALL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+KARPAS231_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+MHHPREB1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+MN60_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+ROS50_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+SUPB8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+U698M_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+BC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+CROAP2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+CTB1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+FARAGE_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+JSC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+KARPAS1106P_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+RCK8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+SCC3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+SLVL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+SUDHL16_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+TK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+TUR_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+VAL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+EB3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+JIYOYEP2003_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+P32ISH_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+RAMOS2G64C10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+RPMI8866_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+MCCAR_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+HC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+MLMA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+MOT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+HS445_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+KY821_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+ALLPO_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+BE13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+GRST_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+HAL01_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+KARPAS45_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+LC41_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+P30OHK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+ATN1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+H9_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+WIL2NS_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+WSUNHL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+YT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+ARH77_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+IM9_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+CS1_BONE	Na	NA	NA	Na	NA	NA	NA
+CHSA8926_BONE	Na	NA	NA	Na	NA	NA	NA
+ES1_BONE	Na	NA	NA	Na	NA	NA	NA
+ES3_BONE	Na	NA	NA	Na	NA	NA	NA
+ES4_BONE	Na	NA	NA	Na	NA	NA	NA
+ES5_BONE	Na	NA	NA	Na	NA	NA	NA
+ES7_BONE	Na	NA	NA	Na	NA	NA	NA
+ES8_BONE	Na	NA	NA	Na	NA	NA	NA
+EW1_BONE	Na	NA	NA	Na	NA	NA	NA
+EW11_BONE	Na	NA	NA	Na	NA	NA	NA
+EW12_BONE	Na	NA	NA	Na	NA	NA	NA
+EW13_BONE	Na	NA	NA	Na	NA	NA	NA
+EW16_BONE	Na	NA	NA	Na	NA	NA	NA
+EW18_BONE	Na	NA	NA	Na	NA	NA	NA
+EW22_BONE	Na	NA	NA	Na	NA	NA	NA
+EW24_BONE	Na	NA	NA	Na	NA	NA	NA
+EW3_BONE	Na	NA	NA	Na	NA	NA	NA
+EW7_BONE	Na	NA	NA	Na	NA	NA	NA
+CAL72_BONE	Na	NA	NA	Na	NA	NA	NA
+HUO3N1_BONE	Na	NA	NA	Na	NA	NA	NA
+HUO9_BONE	Na	NA	NA	Na	NA	NA	NA
+NOS1_BONE	Na	NA	NA	Na	NA	NA	NA
+NY_BONE	Na	NA	NA	Na	NA	NA	NA
+COLO824_BREAST	Na	NA	NA	Na	NA	NA	NA
+MDAMB330_BREAST	Na	NA	NA	Na	NA	NA	NA
+MFM223_BREAST	Na	NA	NA	Na	NA	NA	NA
+MRKNU1_BREAST	Na	NA	NA	Na	NA	NA	NA
+OCUBM_BREAST	Na	NA	NA	Na	NA	NA	NA
+EGI1_BILIARY_TRACT	Na	NA	NA	Na	NA	NA	NA
+ETK1_BILIARY_TRACT	Na	NA	NA	Na	NA	NA	NA
+TGBC1TKB_BILIARY_TRACT	Na	NA	NA	Na	NA	NA	NA
+TGBC24TKB_BILIARY_TRACT	Na	NA	NA	Na	NA	NA	NA
+CAR1_LARGE_INTESTINE	Na	NA	NA	Na	NA	NA	NA
+GP5D_LARGE_INTESTINE	Na	NA	NA	Na	NA	NA	NA
+HCC2998_LARGE_INTESTINE	Na	NA	NA	Na	NA	NA	NA
+NCIH630_LARGE_INTESTINE	Na	NA	NA	Na	NA	NA	NA
+GT3TKB_STOMACH	Na	NA	NA	Na	NA	NA	NA
+HSC39_STOMACH	Na	NA	NA	Na	NA	NA	NA
+MKN28_STOMACH	Na	NA	NA	Na	NA	NA	NA
+RF48_STOMACH	Na	NA	NA	Na	NA	NA	NA
+SCH_STOMACH	Na	NA	NA	Na	NA	NA	NA
+SKGT2_STOMACH	Na	NA	NA	Na	NA	NA	NA
+SW13_ADRENAL_CORTEX	Na	NA	NA	Na	NA	NA	NA
+BB65RCC_KIDNEY	Na	NA	NA	Na	NA	NA	NA
+HA7RCC_KIDNEY	Na	NA	NA	Na	NA	NA	NA
+LB1047RCC_KIDNEY	Na	NA	NA	Na	NA	NA	NA
+LB2241RCC_KIDNEY	Na	NA	NA	Na	NA	NA	NA
+LB996RCC_KIDNEY	Na	NA	NA	Na	NA	NA	NA
+NCC010_KIDNEY	Na	NA	NA	Na	NA	NA	NA
+NCC021_KIDNEY	Na	NA	NA	Na	NA	NA	NA
+RCCAB_KIDNEY	Na	NA	NA	Na	NA	NA	NA
+RCCER_KIDNEY	Na	NA	NA	Na	NA	NA	NA
+RCCFG2_KIDNEY	Na	NA	NA	Na	NA	NA	NA
+RCCJW_KIDNEY	Na	NA	NA	Na	NA	NA	NA
+RCCMF_KIDNEY	Na	NA	NA	Na	NA	NA	NA
+RXF393_KIDNEY	Na	NA	NA	Na	NA	NA	NA
+SN12C_KIDNEY	Na	NA	NA	Na	NA	NA	NA
+201T_LUNG	Na	NA	NA	Na	NA	NA	NA
+EMCBAC1_LUNG	Na	NA	NA	Na	NA	NA	NA
+EMCBAC2_LUNG	Na	NA	NA	Na	NA	NA	NA
+LC2AD_LUNG	Na	NA	NA	Na	NA	NA	NA
+NCIH1993_LUNG	Na	NA	NA	Na	NA	NA	NA
+NCIH720_LUNG	Na	NA	NA	Na	NA	NA	NA
+NCIH835_LUNG	Na	NA	NA	Na	NA	NA	NA
+UMC11_LUNG	Na	NA	NA	Na	NA	NA	NA
+NCIH1770_LUNG	Na	NA	NA	Na	NA	NA	NA
+NCIH2135_LUNG	Na	NA	NA	Na	NA	NA	NA
+CORL321_PLEURA	Na	NA	NA	Na	NA	NA	NA
+CORL303_LUNG	Na	NA	NA	Na	NA	NA	NA
+CORL32_LUNG	Na	NA	NA	Na	NA	NA	NA
+ISTSL1_LUNG	Na	NA	NA	Na	NA	NA	NA
+ISTSL2_LUNG	Na	NA	NA	Na	NA	NA	NA
+LB647SCLC_LUNG	Na	NA	NA	Na	NA	NA	NA
+LU134A_LUNG	Na	NA	NA	Na	NA	NA	NA
+LU135_LUNG	Na	NA	NA	Na	NA	NA	NA
+LU139_LUNG	Na	NA	NA	Na	NA	NA	NA
+LU165_LUNG	Na	NA	NA	Na	NA	NA	NA
+MS1_LUNG	Na	NA	NA	Na	NA	NA	NA
+NCIH1417_LUNG	Na	NA	NA	Na	NA	NA	NA
+NCIH1688_LUNG	Na	NA	NA	Na	NA	NA	NA
+NCIH250_LUNG	Na	NA	NA	Na	NA	NA	NA
+NCIH345_LUNG	Na	NA	NA	Na	NA	NA	NA
+NCIH378_LUNG	Na	NA	NA	Na	NA	NA	NA
+NCIH64_LUNG	Na	NA	NA	Na	NA	NA	NA
+NCIH748_LUNG	Na	NA	NA	Na	NA	NA	NA
+NCIH847_LUNG	Na	NA	NA	Na	NA	NA	NA
+SBC1_LUNG	Na	NA	NA	Na	NA	NA	NA
+H2369_PLEURA	Na	NA	NA	Na	NA	NA	NA
+NCIH2373_PLEURA	Na	NA	NA	Na	NA	NA	NA
+NCIH2461_PLEURA	Na	NA	NA	Na	NA	NA	NA
+NCIH2591_PLEURA	Na	NA	NA	Na	NA	NA	NA
+NCIH2595_PLEURA	Na	NA	NA	Na	NA	NA	NA
+NCIH2722_PLEURA	Na	NA	NA	Na	NA	NA	NA
+NCIH2731_PLEURA	Na	NA	NA	Na	NA	NA	NA
+NCIH2795_PLEURA	Na	NA	NA	Na	NA	NA	NA
+NCIH2803_PLEURA	Na	NA	NA	Na	NA	NA	NA
+NCIH2804_PLEURA	Na	NA	NA	Na	NA	NA	NA
+NCIH2810_PLEURA	Na	NA	NA	Na	NA	NA	NA
+NCIH2818_PLEURA	Na	NA	NA	Na	NA	NA	NA
+NCIH2869_PLEURA	Na	NA	NA	Na	NA	NA	NA
+H290_PLEURA	Na	NA	NA	Na	NA	NA	NA
+D247MG_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+D263MG_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+D336MG_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+D392MG_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+D502MG_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+D542MG_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+D566MG_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+KNS81FD_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+LNZTA3WT4_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+SKMG1_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+PFSK1_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+BE2M17_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+CHP134_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+GIMEN_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+GOTO_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+IMR5_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+LAN6_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+NBTU110_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+NB10_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+NB12_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+NB13_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+NB14_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+NB17_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+NB5_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+NB6_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+NB69_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+NB7_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+NH12_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+TGW_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+MZ1PC_PANCREAS	Na	NA	NA	Na	NA	NA	NA
+PL18_PANCREAS	Na	NA	NA	Na	NA	NA	NA
+PL4_PANCREAS	Na	NA	NA	Na	NA	NA	NA
+CP50MELB_SKIN	Na	NA	NA	Na	NA	NA	NA
+CP66MEL_SKIN	Na	NA	NA	Na	NA	NA	NA
+GAK_SKIN	Na	NA	NA	Na	NA	NA	NA
+GMEL_SKIN	Na	NA	NA	Na	NA	NA	NA
+HMVII_SKIN	Na	NA	NA	Na	NA	NA	NA
+ISTMEL1_SKIN	Na	NA	NA	Na	NA	NA	NA
+LB2518MEL_SKIN	Na	NA	NA	Na	NA	NA	NA
+LB373MELD_SKIN	Na	NA	NA	Na	NA	NA	NA
+MMACSF_SKIN	Na	NA	NA	Na	NA	NA	NA
+MZ2MEL_SKIN	Na	NA	NA	Na	NA	NA	NA
+MZ7MEL_SKIN	Na	NA	NA	Na	NA	NA	NA
+WM1552C_SKIN	Na	NA	NA	Na	NA	NA	NA
+WM278_SKIN	Na	NA	NA	Na	NA	NA	NA
+WM35_SKIN	Na	NA	NA	Na	NA	NA	NA
+A388_SKIN	Na	NA	NA	Na	NA	NA	NA
+A431_SKIN	Na	NA	NA	Na	NA	NA	NA
+DJM1_SKIN	Na	NA	NA	Na	NA	NA	NA
+SW684_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+RH1_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+MFHINO_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+SW872_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+SW982_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+VAESBJ_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+ASH3_THYROID	Na	NA	NA	Na	NA	NA	NA
+IHH4_THYROID	Na	NA	NA	Na	NA	NA	NA
+K5_THYROID	Na	NA	NA	Na	NA	NA	NA
+RO82W1_THYROID	Na	NA	NA	Na	NA	NA	NA
+DSH1_URINARY_TRACT	Na	NA	NA	Na	NA	NA	NA
+LB831BLC_URINARY_TRACT	Na	NA	NA	Na	NA	NA	NA
+C33A_CERVIX	Na	NA	NA	Na	NA	NA	NA
+C4I_CERVIX	Na	NA	NA	Na	NA	NA	NA
+CAL39_VULVA	Na	NA	NA	Na	NA	NA	NA
+CASKI_CERVIX	Na	NA	NA	Na	NA	NA	NA
+DOTC24510_CERVIX	Na	NA	NA	Na	NA	NA	NA
+HT3_CERVIX	Na	NA	NA	Na	NA	NA	NA
+ME180_CERVIX	Na	NA	NA	Na	NA	NA	NA
+MS751_CERVIX	Na	NA	NA	Na	NA	NA	NA
+SISO_CERVIX	Na	NA	NA	Na	NA	NA	NA
+SKGIIIA_CERVIX	Na	NA	NA	Na	NA	NA	NA
+SW756_CERVIX	Na	NA	NA	Na	NA	NA	NA
+TCYIK_CERVIX	Na	NA	NA	Na	NA	NA	NA
+HEC1_ENDOMETRIUM	Na	NA	NA	Na	NA	NA	NA
+JHOS3_OVARY	Na	NA	NA	Na	NA	NA	NA
+KGN_OVARY	Na	NA	NA	Na	NA	NA	NA
+OV17R_OVARY	Na	NA	NA	Na	NA	NA	NA
+OVCA420_OVARY	Na	NA	NA	Na	NA	NA	NA
+OVMIU_OVARY	Na	NA	NA	Na	NA	NA	NA
+PA1_OVARY	Na	NA	NA	Na	NA	NA	NA
+PEO1_OVARY	Na	NA	NA	Na	NA	NA	NA
+SW626_LARGE_INTESTINE	Na	NA	NA	Na	NA	NA	NA
+UWB1289_OVARY	Na	NA	NA	Na	NA	NA	NA
+BPH1_PROSTATE	Na	NA	NA	Na	NA	NA	NA
+PWR1E_PROSTATE	Na	NA	NA	Na	NA	NA	NA
+NCCIT_TESTIS	Na	NA	NA	Na	NA	NA	NA
+NEC8_TESTIS	Na	NA	NA	Na	NA	NA	NA
+NTERA2CLD1_TESTIS	Na	NA	NA	Na	NA	NA	NA
+JAR_PLACENTA	Na	NA	NA	Na	NA	NA	NA
+JEG3_PLACENTA	Na	NA	NA	Na	NA	NA	NA
+SW954_CERVIX	Na	NA	NA	Na	NA	NA	NA
+SW962_VULVA	Na	NA	NA	Na	NA	NA	NA
+SKN_ENDOMETRIUM	Na	NA	NA	Na	NA	NA	NA
+BC3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+BONNA12_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+ES6_BONE	Na	NA	NA	Na	NA	NA	NA
+DIFI_LARGE_INTESTINE	Na	NA	NA	Na	NA	NA	NA
+RCCJF_KIDNEY	Na	NA	NA	Na	NA	NA	NA
+SW156_KIDNEY	Na	NA	NA	Na	NA	NA	NA
+PC3JPC3_LUNG	Na	NA	NA	Na	NA	NA	NA
+NCIH740_LUNG	Na	NA	NA	Na	NA	NA	NA
+NCIH1304_LUNG	Na	NA	NA	Na	NA	NA	NA
+D423MG_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+KPNYS_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+MCIXC_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+CP67MEL_SKIN	Na	NA	NA	Na	NA	NA	NA
+HS633T_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+OMC1_CERVIX	Na	NA	NA	Na	NA	NA	NA
+HEY_OVARY	Na	NA	NA	Na	NA	NA	NA
+JHU029_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+SCC90_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+OCILY7_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+CHSA0011_BONE	Na	NA	NA	Na	NA	NA	NA
+CHSA0108_BONE	Na	NA	NA	Na	NA	NA	NA
+K2_SKIN	Na	NA	NA	Na	NA	NA	NA
+STS0421_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+MYM12_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+NK92MI_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+YMB1E_BREAST	Na	NA	NA	Na	NA	NA	NA
+RERFLCFM_LUNG	Na	NA	NA	Na	NA	NA	NA
+D245MG_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+VMRCMELG_SKIN	Na	NA	NA	Na	NA	NA	NA
+OVCA433_OVARY	Na	NA	NA	Na	NA	NA	NA
+TMK1_STOMACH	Na	NA	NA	Na	NA	NA	NA
+SC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+UCH2_BONE	Na	NA	NA	Na	NA	NA	NA
+ML2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+DG75_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+CCRFCEM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+HEMCSS_BONE	Na	NA	NA	Na	NA	NA	NA
+NCIH187_LUNG	Na	NA	NA	Na	NA	NA	NA
+SBC3_LUNG	Na	NA	NA	Na	NA	NA	NA
+NCIH513_PLEURA	Na	NA	NA	Na	NA	NA	NA
+KINGS1_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+LN405_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+NO10_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+NO11_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+451LU_SKIN	Na	NA	NA	Na	NA	NA	NA
+M14_SKIN	Na	NA	NA	Na	NA	NA	NA
+HTCC3_THYROID	Na	NA	NA	Na	NA	NA	NA
+HELA_CERVIX	Na	NA	NA	Na	NA	NA	NA
+NCIH128_LUNG	Na	NA	NA	Na	NA	NA	NA
+OMM23_EYE	Na	NA	NA	Na	NA	NA	NA
+OMM25_EYE	Na	NA	NA	Na	NA	NA	NA
+SUM52PE_BREAST	Na	NA	NA	Na	NA	NA	NA
+MAVER1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+MEL202_EYE	Na	NA	NA	Na	NA	NA	NA
+Z138_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+MEL285_EYE	Na	NA	NA	Na	NA	NA	NA
+WS1_SKIN	Na	NA	NA	Na	NA	NA	NA
+T778_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+KMH2_THYROID	Na	NA	NA	Na	NA	NA	NA
+MC1010_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	Na	NA	NA	Na	NA	NA	NA
+LIM1215_LARGE_INTESTINE	Na	NA	NA	Na	NA	NA	NA
+MCC13_SKIN	Na	NA	NA	Na	NA	NA	NA
+TASK1_CENTRAL_NERVOUS_SYSTEM	Na	NA	NA	Na	NA	NA	NA
+UDSCC2_UPPER_AERODIGESTIVE_TRACT	Na	NA	NA	Na	NA	NA	NA
+SARC9371_BONE	Na	NA	NA	Na	NA	NA	NA
+MCC26_SKIN	Na	NA	NA	Na	NA	NA	NA
+NBSUSSR_AUTONOMIC_GANGLIA	Na	NA	NA	Na	NA	NA	NA
+GEO_LARGE_INTESTINE	Na	NA	NA	Na	NA	NA	NA
+NCIH2330_LUNG	Na	NA	NA	Na	NA	NA	NA
+LP6_SOFT_TISSUE	Na	NA	NA	Na	NA	NA	NA
+HS578BST_BREAST	Na	NA	NA	Na	NA	NA	NA
+LC1SQ_LUNG	Na	NA	NA	Na	NA	NA	NA
